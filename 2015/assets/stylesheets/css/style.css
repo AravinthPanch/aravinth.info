@@ -357,7 +357,7 @@ a:hover {
     color: #ffffff;
     padding: 0px;
     line-height: 0px;
-    width: 200px;
+    width: 140px;
     height: 40px;
     background: url("../../images/logo.png") no-repeat center;
     margin: 20px 0px;
@@ -2983,7 +2983,7 @@ a:hover {
 
 @media (max-width: 1024px) {
     .timeline > li .timeline-year span:last-child {
-        font-size: 35px;
+        font-size: 18px;
     }
 }
 
