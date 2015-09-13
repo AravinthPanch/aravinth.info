@@ -118,6 +118,10 @@ a:hover {
     font-weight: 700;
 }
 
+.text-indent {
+    text-indent: 5%;
+}
+
 .section-title {
     position: relative;
 }
