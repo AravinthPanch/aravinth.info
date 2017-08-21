@@ -3,7 +3,7 @@ google.maps.event.addDomListener(window, 'load', init);
 
 function init() {
     // The latitude and longitude to center the map (always required)
-    var myLatlng = new google.maps.LatLng(52.5167, 13.3833);
+    var myLatlng = new google.maps.LatLng(52.471482, 13.3231875);
     
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
