@@ -1,7 +1,7 @@
 /*==========================================*/
 /* CSS Document */
 /*
-	Theme Name: MePro 
+	Theme Name: MePro
 	Description: MePro - Responsive One Page Template
 	Version: 1.0
 	Author: Suave Digital
@@ -1315,6 +1315,7 @@ a:hover {
 /*==========================================*/
 .education .title,
 .contribution .title,
+.portfolio .title,
 .employment .title {
     padding: 40px 0px;
     border-top: 2px solid #eee;
