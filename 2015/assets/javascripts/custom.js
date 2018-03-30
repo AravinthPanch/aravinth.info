@@ -9,7 +9,7 @@ $(document).ready(function () {
 	}, 1000);
 
 	$("#typed").typed({
-		strings: ["Roboticist", "Electronics Engineer", "New Media Artist", "Environmentalist"],
+		strings: ["Maker", "Embedded Systems Engineer", "New Media Artist", "Environmentalist"],
 		typeSpeed: 30,
 		startDelay: 0,
 		backSpeed: 30,
@@ -222,4 +222,4 @@ $(window).load(function () {
 		return false;
 	});
 
-});
+});
