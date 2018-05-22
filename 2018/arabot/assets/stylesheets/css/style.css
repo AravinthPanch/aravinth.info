@@ -985,11 +985,18 @@ a:hover {
     padding: 5px 0px 60px;
 }
 
+.portfolio .media{
+    padding: 20px 0px;
+}
+
+
 .portfolio .title h1 {
     margin-top: 0px;
     margin-bottom: 0px;
     text-transform: none;
-    font-size: 64px;
+    font-size: 96px;
+    color: #000099;
+    font-family: 'Superclarendon', sans-serif;
 }
 
 .portfolio .description {
