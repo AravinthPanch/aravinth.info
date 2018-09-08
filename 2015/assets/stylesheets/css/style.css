@@ -1316,7 +1316,7 @@ a:hover {
 /*==========================================*/
 .contact .title,
 .education .title,
-.contribution .title,
+.community .title,
 .portfolio .title,
 .employment .title {
     padding: 40px 0px;
@@ -1325,7 +1325,7 @@ a:hover {
 }
 
 .education .title h1,
-.contribution .title h1,
+.community .title h1,
 .employment .title h1 {
     margin: 0px;
 }
