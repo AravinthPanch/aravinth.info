@@ -9,7 +9,7 @@ $(document).ready(function () {
 	}, 1000);
 
 	$("#typed").typed({
-		strings: ["Maker", "Embedded Systems Engineer", "New Media Artist"],
+		strings: ["Community Builder","Media Artist","Embedded Systems Engineer"],
 		typeSpeed: 30,
 		startDelay: 0,
 		backSpeed: 30,
