@@ -149,43 +149,43 @@ $(document).ready(function () {
 	$('#contact-warning').hide();
 	$('#contact-success').hide();
 
-	$('#contactBtn').click(function () {
-
-		$('#contact-loader').fadeIn();
-
-		var contactName = $('#contactName').val();
-		var contactEmail = $('#contactEmail').val();
-		var contactMessage = $('#contactMessage').val();
-
-		var data = 'contactName=' + contactName + '&contactEmail=' + contactEmail
-			+ '&contactMessage=' + contactMessage;
-
-		$.ajax({
-
-			type: "POST",
-			url: "assets/email/send.php",
-			data: data,
-			success: function (msg) {
-
-				// Message was sent
-				if (msg == 'OK') {
-					$('#contact-loader').fadeOut();
-					$('#contact-warning').hide();
-					$('.footer-form').fadeOut();
-					$('#contact-success').fadeIn();
-				}
-				// There was an error
-				else {
-					$('#contact-loader').fadeOut();
-					$('#contact-warning').html(msg);
-					$('#contact-warning').fadeIn();
-				}
-
-			}
-
-		});
-		return false;
-	});
+	// $('#contactBtn').click(function () {
+	//
+	// 	$('#contact-loader').fadeIn();
+	//
+	// 	var contactName = $('#contactName').val();
+	// 	var contactEmail = $('#contactEmail').val();
+	// 	var contactMessage = $('#contactMessage').val();
+	//
+	// 	var data = 'contactName=' + contactName + '&contactEmail=' + contactEmail
+	// 		+ '&contactMessage=' + contactMessage;
+	//
+	// 	$.ajax({
+	//
+	// 		type: "POST",
+	// 		url: "assets/email/send.php",
+	// 		data: data,
+	// 		success: function (msg) {
+	//
+	// 			// Message was sent
+	// 			if (msg == 'OK') {
+	// 				$('#contact-loader').fadeOut();
+	// 				$('#contact-warning').hide();
+	// 				$('.footer-form').fadeOut();
+	// 				$('#contact-success').fadeIn();
+	// 			}
+	// 			// There was an error
+	// 			else {
+	// 				$('#contact-loader').fadeOut();
+	// 				$('#contact-warning').html(msg);
+	// 				$('#contact-warning').fadeIn();
+	// 			}
+	//
+	// 		}
+	//
+	// 	});
+	// 	return false;
+	// });
 
 
 });

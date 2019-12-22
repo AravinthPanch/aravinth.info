@@ -1689,15 +1689,18 @@
     <div class="container">
       <div class="col-md-8 col-md-offset-2">
         <div class="footer-form">
-          <form method="post" id="contactForm" name="contactForm">
+          <form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSeuvbloEFH8uem7bDE-Y3xSN_F7NaQxtyQN5OkFtFmJ4C2tcw" onsubmit="return window.submitGoogleForm(this);">
             <div class="col-md-12 input-container wow animated fadeInUp" data-wow-delay="0.2s">
-              <input type="text" class="form-control" placeholder="Name" id="contactName" name="contactName">
+              <input type="text" class="form-control" placeholder="Your Name" id="contactName" name="entry.1049395714">
             </div>
             <div class="col-md-12 input-container wow animated fadeInUp" data-wow-delay="0.2s">
-              <input type="text" class="form-control" placeholder="Email" id="contactEmail" name="contactEmail">
+              <input type="text" class="form-control" placeholder="Your Email" id="contactEmail" name="emailAddress">
+            </div>
+            <div class="col-md-12 input-container wow animated fadeInUp" data-wow-delay="0.2s">
+              <input type="text" class="form-control" placeholder="Your Organisation" id="contactOrg" name="entry.448362686">
             </div>
             <div class="col-md-12 textarea-container wow animated fadeInUp" data-wow-delay="0.2s">
-              <textarea class="form-control" placeholder="Your Message Here" id="contactMessage" name="contactMessage"></textarea>
+              <textarea class="form-control" placeholder="Your Message Here" id="contactMessage" name="entry.1793047725"></textarea>
             </div>
             <div class="col-md-12 button-container wow animated fadeInUp" data-wow-delay="0.2s">
               <input id="contactBtn" type="submit" class="submit-btn def-btn" value="Send Message">
@@ -1761,6 +1764,7 @@
   <script src="assets/javascripts/jquery.appear.min.js"></script>
   <script src="assets/javascripts/masonry.pkgd.min.js"></script>
   <script src="assets/javascripts/custom.js"></script>
+  <script src="assets/javascripts/google-form.js"></script>
 </body>
 
 </html>
