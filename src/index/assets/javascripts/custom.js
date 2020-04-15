@@ -9,7 +9,7 @@ $(document).ready(function () {
 	}, 1000);
 
 	$("#typed").typed({
-		strings: ["Community Builder","Media Artist","Embedded Systems Engineer"],
+		strings: ["Multidisciplinary Ecosystem Builder"],
 		typeSpeed: 30,
 		startDelay: 0,
 		backSpeed: 30,
