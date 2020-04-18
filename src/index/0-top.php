@@ -27,9 +27,9 @@
   <link href="assets/stylesheets/css/style.css" rel="stylesheet">
   <!-- <link href="assets/stylesheets/css/color-scheme.css" rel="stylesheet"> -->
   <!-- Font style live -->
-  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
   <!-- Style Switcher -->
   <link href="assets/stylesheets/css/switcher/switcher.css" rel="stylesheet">
   <link href="assets/stylesheets/css/colors/yellow.css" id="switch_style" rel="stylesheet" />
