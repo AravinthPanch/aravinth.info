@@ -14,7 +14,7 @@
           <div class="text">
             <p></p>
             <p class="text-justify">
-              Aravinth is a multidisciplinary ecosystem builder with 17+ years of global experience.
+              Aravinth is a multidisciplinary ecosystem builder with 17+ years of global experience on science, engineering and arts.
             </p>
             <p class="text-justify">
               He co-founded 7 organisations in the sector of education, agriculture, sustainability & innovation, in Europe & Asia, and he co-curates several communities for startups, sustainability, education and art, in Europe, Africa & Asia.
