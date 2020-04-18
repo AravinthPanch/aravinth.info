@@ -38,7 +38,7 @@
       </div>
     </li>
     <li>
-      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Sep 2018 - Current</time>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Apr 2019 - Current</time>
       <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
         <i class="pe-7s-display1 pe-va"></i>
       </div>

@@ -22,8 +22,28 @@
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Global Innovation Gathering</h3>
+            <h3>Global Innovation Gathering (GIG)</h3>
             <span class="place textbold">Member | Community Maker</span>
+          </div>
+        </li>
+        <li>
+          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Mar 2020 - Current</time>
+          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+            <i class="pe-7s-loop pe-va"></i>
+          </div>
+          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+            <h3>Just One Giant Lab (JOGL)</h3>
+            <span class="place textbold">Member | Community Scientist</span>
+          </div>
+        </li>
+        <li>
+          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Mar 2020 - Apr 2020</time>
+          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+            <i class="pe-7s-loop pe-va"></i>
+          </div>
+          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+            <h3>Hack Corona | Datanatives</h3>
+            <span class="place textbold">Event Organizer | Mentor</span>
           </div>
         </li>
         <li>
@@ -32,8 +52,8 @@
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>AsiaBerlin Summit</h3>
-            <span class="place textbold">Event Organizer | Speaker</span>
+            <h3>AsiaBerlin Summit (APW)</h3>
+            <span class="place textbold">Event Organizer</span>
           </div>
         </li>
         <li>
@@ -42,7 +62,7 @@
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Science Hackday Berlin </h3>
+            <h3>Science Hackday Berlin (SHDB) </h3>
             <span class="place textbold">Event Organizer | Community Scientist</span>
           </div>
         </li>
@@ -63,7 +83,7 @@
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
             <h3>SPEKTRUM Berlin</h3>
-            <span class="place textbold">Community Media Artist</span>
+            <span class="place textbold">Community Artist</span>
           </div>
         </li>
         <li>
