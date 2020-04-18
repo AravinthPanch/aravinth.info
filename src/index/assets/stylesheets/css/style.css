@@ -363,8 +363,9 @@ a:hover {
     line-height: 0px;
     width: 140px;
     height: 40px;
-    background: url("../../images/logo.png") no-repeat center;
+    background: url("../../images/portfolio/aracreate-logo-website-white.png") no-repeat center;
     margin: 20px 0px;
+    background-size: 100%;
 }
 
 .navbar-inverse .navbar-nav li a {
@@ -408,7 +409,8 @@ a:hover {
 }
 
 .navbar-inverse.scroll-fixed-navbar .navbar-brand {
-    background: url("../../images/logo-dark.png") no-repeat center;
+    background: url("../../images/portfolio/aracreate-logo-website-color.png") no-repeat center;
+    background-size: 100%;
 }
 
 .navbar-inverse.scroll-fixed-navbar .navbar-nav li a {
@@ -3043,8 +3045,9 @@ a:hover {
     }
 
     .navbar-inverse .navbar-brand {
-        padding: 0px;
-        background: url("../../images/logo-dark.png") no-repeat center;
+        margin-left: 10px;
+        background: url("../../images/portfolio/aracreate-logo-website-color.png") no-repeat center;
+        background-size: 100%;
     }
 
     .navbar-inverse .navbar-collapse {
@@ -3186,7 +3189,7 @@ a:hover {
     }
 
     .banner .banner-content .title h1 {
-        font-size: 24px;
+        font-size: 12px;
         line-height: 30px;
         letter-spacing: 7px;
     }
