@@ -8,6 +8,56 @@
   <!--/.subtitile -->
   <ul class="timeline">
     <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Feb 2020</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-users pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>[TALK] INNOVATION ECOSYSTEMS AROUND THE WORLD</h3>
+        <span class="place textbold">Technical College Batticaloa | Batticaloa, Sri Lanka</span>
+      </div>
+    </li>
+    <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Feb 2020</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-users pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>[TALK] INNOVATION ECOSYSTEMS AROUND THE WORLD</h3>
+        <span class="place textbold">DreamSpace Academy | Batticaloa, Sri Lanka</span>
+      </div>
+    </li>
+    <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Feb 2020</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-users pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>[TALK] INNOVATION THINKING</h3>
+        <span class="place textbold">ESOFT | Batticaloa, Sri Lanka</span>
+      </div>
+    </li>
+    <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Jan 2020</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-users pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>[WORKSHOP] EMERGING STARTUP ECOSYSTEM FOR UZBEKISTAN</h3>
+        <span class="place textbold">Programme Designers’ Lab Uzbekistan, Enpact | Berlin, Germany</span>
+      </div>
+    </li>
+    <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Dec 2019</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-users pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>[TALK] GLOBAL INNOVATION GATHERING : DREAMSPACE ACADEMY</h3>
+        <span class="place textbold">Chaos Communication Congress, 36C3 | Leipzig, Germany</span>
+      </div>
+    </li>
+    <li>
       <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Dec 2019</time>
       <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
         <i class="pe-7s-users pe-va"></i>
