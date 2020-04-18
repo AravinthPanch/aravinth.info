@@ -12,7 +12,7 @@
         <div class="title-icon-container">
           <div class="title-icon"><i class="pe-7s-loop pe-2x pe-va"></i></div>
         </div>
-        <h2>Communities & Networks</h2>
+        <h2>Communities</h2>
       </div>
       <!--/.subtitile -->
       <ul class="timeline">
@@ -37,16 +37,6 @@
           </div>
         </li>
         <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Sep 2018 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-loop pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Innovation Network for Advanced Materials</h3>
-            <span class="place textbold">StartUp Mentor | Member</span>
-          </div>
-        </li>
-        <li>
           <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Oct 2014 - Current</time>
           <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
             <i class="pe-7s-loop pe-va"></i>
@@ -54,56 +44,6 @@
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
             <h3>Science Hackday Berlin </h3>
             <span class="place textbold">Event Organizer | Mentor | Lab Facilitator</span>
-          </div>
-        </li>
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Feb 2014 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-loop pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Sustainability Drinks Berlin | GreenBuzz Berlin</h3>
-            <span class="place textbold">Event Organizer</span>
-          </div>
-        </li>
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Oct 2019 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-loop pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Founder Institute Berlin</h3>
-            <span class="place textbold">StartUp Mentor</span>
-          </div>
-        </li>
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Mar 2019 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-loop pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Canary Islands Hub</h3>
-            <span class="place textbold">StartUp Mentor</span>
-          </div>
-        </li>
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Apr 2019 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-loop pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Decelera</h3>
-            <span class="place textbold">StartUp Mentor</span>
-          </div>
-        </li>
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Nov 2019 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-loop pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>WLounge</h3>
-            <span class="place textbold">StartUp Mentor</span>
           </div>
         </li>
         <li>
@@ -124,16 +64,6 @@
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
             <h3>SPEKTRUM Berlin</h3>
             <span class="place textbold">Community Media Artist</span>
-          </div>
-        </li>
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Sep 2016 - Dec 2016</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-users pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>SINGA Deutschland </h3>
-            <span class="place textbold">Mentor | Refugee Integration</span>
           </div>
         </li>
         <li>
