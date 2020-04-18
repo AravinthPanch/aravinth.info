@@ -23,7 +23,7 @@
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
             <h3>Global Innovation Gathering</h3>
-            <span class="place textbold">Member | Co-Creator | Mentor</span>
+            <span class="place textbold">Member | Community Maker</span>
           </div>
         </li>
         <li>
@@ -32,8 +32,8 @@
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Asia-Pacific Week Berlin</h3>
-            <span class="place textbold">Event Organizer | StartUp Mentor | Speaker</span>
+            <h3>AsiaBerlin Summit</h3>
+            <span class="place textbold">Event Organizer | Speaker</span>
           </div>
         </li>
         <li>
@@ -43,7 +43,7 @@
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
             <h3>Science Hackday Berlin </h3>
-            <span class="place textbold">Event Organizer | Mentor | Lab Facilitator</span>
+            <span class="place textbold">Event Organizer | Community Scientist</span>
           </div>
         </li>
         <li>
@@ -73,7 +73,7 @@
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
             <h3>DAInamite | Humanoid Robot Robocup SPL Team</h3>
-            <span class="place textbold">Roboticist | Computer Vision</span>
+            <span class="place textbold">Roboticist | Community Scientist</span>
           </div>
         </li>
       </ul>

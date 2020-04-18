@@ -144,7 +144,7 @@
         <div class="title-icon-container">
           <div class="title-icon"><i class="pe-7s-link pe-2x pe-va"></i></div>
         </div>
-        <h2>Advisory & Honorary</h2>
+        <h2>Advisory | Honorary</h2>
       </div>
       <!--/.subtitile -->
       <ul class="timeline">
@@ -241,6 +241,26 @@
       <!--/.subtitile -->
       <ul class="timeline">
         <li>
+          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Sep 2018 - Current</time>
+          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+            <i class="pe-7s-loop pe-va"></i>
+          </div>
+          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+            <h3>Innovation Network for Advanced Materials</h3>
+            <span class="place textbold">Berlin, Germany</span>
+          </div>
+        </li>
+        <li>
+          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Feb 2020 - Current</time>
+          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+            <i class="pe-7s-loop pe-va"></i>
+          </div>
+          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+            <h3>Imagine2030 Mobility Accelerator</h3>
+            <span class="place textbold">Berlin, Germany</span>
+          </div>
+        </li>
+        <li>
           <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Mar 2020 - Current</time>
           <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
             <i class="pe-7s-loop pe-va"></i>
@@ -256,17 +276,27 @@
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Innovation Network for Advanced Materials</h3>
-            <span class="place textbold">Berlin, Germany</span>
+            <h3>Startup AsiaBerlin</h3>
+            <span class="place textbold">Asia-Pacific</span>
           </div>
         </li>
         <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Sep 2018 - Current</time>
+          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Mar 2020 - Current</time>
           <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Innovation Network for Advanced Materials</h3>
+            <h3>Access 2 Perspectives</h3>
+            <span class="place textbold">Global South</span>
+          </div>
+        </li>
+        <li>
+          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Jan 2020 - Current</time>
+          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+            <i class="pe-7s-loop pe-va"></i>
+          </div>
+          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+            <h3>BERLIN STARTUP SCHOOL</h3>
             <span class="place textbold">Berlin, Germany</span>
           </div>
         </li>
