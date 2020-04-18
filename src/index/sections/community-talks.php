@@ -73,6 +73,16 @@
         <i class="pe-7s-users pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>[TALK] DATA, SOVEREIGNTY, DEMOCRACY : A GLOBAL SOUTH PERSPECTIVE</h3>
+        <span class="place textbold">United Nations Internet Governance Forum, IGF 2019, MotionLab | Berlin, Germany</span>
+      </div>
+    </li>
+    <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Nov 2019</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-users pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
         <h3>[KEYNOTE] CO-CREATING THE DREAMS WITH PROJECT & CHALLENGE BASED LEARNING</h3>
         <span class="place textbold">ReLogia 2019 | Sofia, Bulgaria</span>
       </div>
