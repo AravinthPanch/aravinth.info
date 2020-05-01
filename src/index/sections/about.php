@@ -5,7 +5,7 @@
       <div class="title-icon"><i class="pe-7s-id pe-2x"></i></div>
     </div>
     <h1>Aravinth Panch</h1>
-    <h2>Multidisciplinary Ecosystem Builder</h2>
+    <h2>Interdisciplinary Expert</h2>
   </div>
   <div class="container">
     <div class="row">
@@ -14,28 +14,28 @@
           <div class="text">
             <p></p>
             <p class="text-justify">
-              Aravinth is a multidisciplinary ecosystem builder with 17+ years of global experience on science, engineering and arts.
+              Aravinth is an interdisciplinary expert with 17+ years of global experience in science, engineering, arts and sustainability.
             </p>
             <p class="text-justify">
-              He co-founded 7 organisations in the sector of education, agriculture, sustainability & innovation, in Europe & Asia, and he co-curates several communities for startups, sustainability, education and art, in Europe, Africa & Asia.
+              As an entrepreneur, he co-founded 7 organisations in the sector of education, sustainability, agriculture, consulting & engineering services, in Asia & Europe.
             </p>
             <p class="text-justify">
-              He is an advisor to several startup accelerators & incubators globally, where he mentors annually around 30+ deep tech startups in the domain of advanced materials, healthcare, agriculture, aerospace and energy.
+              As an engineer, he worked for 2 corporates in the telecom sector and worked for 8 tech startups in the sector of education, smart home, media, agriculture, energy, healthcare & water, in Asia & Europe.
             </p>
             <p class="text-justify">
-              He also worked in 5 hardware startups in the spectrum of energy, healthcare, smart home, urban mobility, in Berlin, and researched at 4 academic research institutions in the field of IoT, autonomous vehicles, humanoid robotics &
-              machine learning.
+              As an educator, he trained several young innovators and mentored 120+ deep tech startups in the domain of advanced materials, healthcare, agriculture, aerospace, energy, automotive & biotechnology, globally.
             </p>
             <p class="text-justify">
-              He is supporting DreamSpace Academy, as a Director of Innovation, to build a platform for community innovations that solves authentic socio-economic and environmental challenges using project & challenge based learning.
+              As a scientist, he researched at 4 academic research institutions in the field of wireless technologies, autonomous vehicles, biometrics, humanoid robotics & machine learning, in Germany.
             </p>
             <p class="text-justify">
-              He is supporting also Berlin Senate's Startup AsiaBerlin, as an Ambassador, to establish Tech-Diplomacy between the government of Berlin and governments of Asia-Pacific countries, by connecting startup ecosystems with the multiple
-              stakeholders.
+              As an advisor, he supported several individuals, startups, accelerators, incubators, innovation hubs, corporates, investors, manufacturers, research institutions, universities, government initiatives, art galleries and social enterprises, globally.
             </p>
             <p class="text-justify">
-              He is supporting also MotionLab Berlin, as a Head of International Partnerships, to match-make startups with manufacturers, suppliers, consultants, investors, accelerators, incubators, company builders, venture developers, government
-              initiatives, funding institutions, research institutions, educational institutions and human resources.
+              As an artist, he has co-created several new media art installations for temporary and permanent exhibitions, which attracted more than 1.5 million visitors, in Germany, Australia & USA.
+            </p>
+            <p class="text-justify">
+              As a community builder, he co-created and has been curating several communities for startups, sustainability, education & art, in Asia, Europe & Africa.
             </p>
             </br>
             <!-- <h3 style="color: #f9bf3b;">Public Appearances</h3> -->

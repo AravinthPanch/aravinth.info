@@ -9,7 +9,7 @@ $(document).ready(function () {
 	}, 1000);
 
 	$("#typed").typed({
-		strings: ["Multidisciplinary Ecosystem Builder"],
+		strings: ["Interdisciplinary Expert"],
 		typeSpeed: 30,
 		startDelay: 0,
 		backSpeed: 30,

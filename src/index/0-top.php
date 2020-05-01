@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Aravinth Panch - Multidisciplinary Ecosystem Builder">
+  <meta name="description" content="Aravinth Panch is an interdisciplinary expert with 17+ years of global experience in science, engineering, arts and sustainability.">
   <link rel="icon" href="assets/images/portfolio/favicon.png">
   <title>Aravinth Panch</title>
   <!-- Stylesheets -->
