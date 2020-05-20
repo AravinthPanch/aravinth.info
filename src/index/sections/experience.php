@@ -12,7 +12,7 @@
         <div class="title-icon-container">
           <div class="title-icon"><i class="pe-7s-news-paper pe-2x pe-va"></i></div>
         </div>
-        <h2>Founder | Freelancer | Employee</h2>
+        <h2>Founder | Employee</h2>
       </div>
       <!--/.subtitile -->
       <ul class="timeline">
@@ -32,8 +32,8 @@
             <i class="pe-7s-news-paper pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Founder | Engineer | Media Artist | Educator | Speaker | Community Scientist</h3>
-            <span class="place textbold">araCreate UG : Global</span>
+            <h3>Founder | Interdisciplinary Expert</h3>
+            <span class="place textbold">araCreate : Global</span>
           </div>
         </li>
         <li>

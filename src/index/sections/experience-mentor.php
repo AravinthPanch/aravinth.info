@@ -3,7 +3,7 @@
     <div class="title-icon-container">
       <div class="title-icon"><i class="pe-7s-display1 pe-2x pe-va"></i></div>
     </div>
-    <h2>Mentor</h2>
+    <h2>Mentor | Coordinator</h2>
   </div>
   <!--/.subtitile -->
   <ul class="timeline">
