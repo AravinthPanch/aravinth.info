@@ -14,7 +14,7 @@
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
         <h3>Ambassador</h3>
-        <span class="place textbold">StartUp AsiaBerlin | Berlin Senate Department for Economics</span>
+        <span class="place textbold">AsiaBerlin | Berlin Senate Department for Economics</span>
       </div>
     </li>
     <li>

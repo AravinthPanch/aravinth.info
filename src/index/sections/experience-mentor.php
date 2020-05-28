@@ -18,6 +18,26 @@
       </div>
     </li>
     <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Apr 2020 - Current</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-display1 pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>Global Talent Mentoring</h3>
+        <span class="place textbold">Regensburg, Germany</span>
+      </div>
+    </li>
+    <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Apr 2020 - Current</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-display1 pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>The Startup Club</h3>
+        <span class="place textbold">Milan, Italy</span>
+      </div>
+    </li>
+    <li>
       <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Feb 2020 - Current</time>
       <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
         <i class="pe-7s-display1 pe-va"></i>
