@@ -33,6 +33,20 @@
   <!-- Style Switcher -->
   <link href="assets/stylesheets/css/switcher/switcher.css" rel="stylesheet">
   <link href="assets/stylesheets/css/colors/yellow.css" id="switch_style" rel="stylesheet" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168585905-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-168585905-1');
+  </script>
+
 </head>
 
 <body data-spy="scroll" data-target=".navbar-collapse" data-offset="80" class="slideshowbody">
