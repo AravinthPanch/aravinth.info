@@ -43,7 +43,7 @@
         "consent_type": "express",
         "palette": "light",
         "language": "en",
-        "website_name": "aravinth.info",
+        "website_name": "www.aravinth.info",
         "change_preferences_selector":"#change_cookies"
       });
     });
