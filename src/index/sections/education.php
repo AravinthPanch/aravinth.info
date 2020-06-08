@@ -92,7 +92,7 @@
             <i class="pe-7s-study pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Associate's Degree in Graphics, Animation, Special Effects and Web Design </h3>
+            <h3>Associate's Degree in Multimedia </h3>
             <span class="place textbold">Arena Multimedia, Chennai</span>
           </div>
         </li>

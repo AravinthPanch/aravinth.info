@@ -12,22 +12,12 @@
         <div class="title-icon-container">
           <div class="title-icon"><i class="pe-7s-news-paper pe-2x pe-va"></i></div>
         </div>
-        <h2>Founder | Employee</h2>
+        <h2>Active Founder | Employee</h2>
       </div>
       <!--/.subtitile -->
       <ul class="timeline">
         <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Aug 2018 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-news-paper pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Co-Founder | Director of Innovation</h3>
-            <span class="place textbold">DreamSpace Academy, Batticaloa, Sri Lanka</span>
-          </div>
-        </li>
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">2003 - Current</time>
+          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">May 2003 - Current</time>
           <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
             <i class="pe-7s-news-paper pe-va"></i>
           </div>

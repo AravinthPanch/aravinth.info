@@ -5,7 +5,7 @@
     <div class="col-md-12 col-sm-12 links">
       <ul>
         <li class="social-icons">
-          <a href="https://de.linkedin.com/in/aravinthpanch" data-toggle="tooltip" title="Linkedin">
+          <a href="https://www.linkedin.com/in/aravinthpanch/" data-toggle="tooltip" title="Linkedin">
             <div class="circle">
               <i class="fa fa-linkedin"></i>
             </div>
@@ -13,6 +13,11 @@
           <a href="https://github.com/aravinthpanch" data-toggle="tooltip" title="GitHub">
             <div class="circle">
               <i class="fa fa-github"></i>
+            </div>
+          </a>
+          <a href="www.aravinth.info" data-toggle="tooltip" title="GitHub">
+            <div class="circle">
+              <i class="fa fa-mail-reply"></i>
             </div>
           </a>
         </li>

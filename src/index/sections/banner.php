@@ -22,7 +22,7 @@
                 <i class="fa fa-github"></i>
               </div>
             </a>
-            <a href="https://de.linkedin.com/in/aravinthpanch" data-toggle="tooltip" title="Linkedin">
+            <a href="https://www.linkedin.com/in/aravinthpanch/" data-toggle="tooltip" title="Linkedin">
               <div class="circle">
                 <i class="fa fa-linkedin"></i>
               </div>

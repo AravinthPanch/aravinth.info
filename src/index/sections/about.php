@@ -14,7 +14,7 @@
           <div class="text">
             <p></p>
             <p class="text-justify">
-              Aravinth is an interdisciplinary expert with 17+ years of global experience in science, engineering, arts and sustainability.
+              Aravinth is an interdisciplinary expert with 17+ years of global experience in science, engineering, arts and sustainability, with the core expertise in research, development and production of electro-mechanical embedded systems.
             </p>
             <p class="text-justify">
               As an entrepreneur, he co-founded 7 organisations in the sector of education, sustainability, agriculture, consulting & engineering services, in Asia & Europe.

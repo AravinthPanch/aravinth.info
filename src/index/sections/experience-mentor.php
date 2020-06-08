@@ -13,18 +13,8 @@
         <i class="pe-7s-display1 pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-        <h3>Innovation Network for Advanced Materials</h3>
+        <h3>Innovation Network for Advanced Materials (INAM)</h3>
         <span class="place textbold">Berlin, Germany</span>
-      </div>
-    </li>
-    <li>
-      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Apr 2020 - Current</time>
-      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-        <i class="pe-7s-display1 pe-va"></i>
-      </div>
-      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-        <h3>Global Talent Mentoring</h3>
-        <span class="place textbold">Regensburg, Germany</span>
       </div>
     </li>
     <li>
@@ -53,18 +43,8 @@
         <i class="pe-7s-display1 pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-        <h3>Vision Health Pioneers</h3>
+        <h3>Vision Health Pioneers (VHP)</h3>
         <span class="place textbold">Berlin, Germany</span>
-      </div>
-    </li>
-    <li>
-      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Apr 2019 - Current</time>
-      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-        <i class="pe-7s-display1 pe-va"></i>
-      </div>
-      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-        <h3>Startup AsiaBerlin</h3>
-        <span class="place textbold">Asia-Pacific</span>
       </div>
     </li>
     <li>
@@ -73,7 +53,7 @@
         <i class="pe-7s-display1 pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-        <h3>Access 2 Perspectives</h3>
+        <h3>Access 2 Perspectives (A2P)</h3>
         <span class="place textbold">Global South</span>
       </div>
     </li>
@@ -93,7 +73,7 @@
         <i class="pe-7s-display1 pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-        <h3>Founder Institute</h3>
+        <h3>Founder Institute (FI)</h3>
         <span class="place textbold">Berlin, Germany</span>
       </div>
     </li>

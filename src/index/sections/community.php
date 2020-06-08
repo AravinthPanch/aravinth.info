@@ -42,7 +42,7 @@
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Hack Corona | Datanatives</h3>
+            <h3>Datanatives | Hack Corona</h3>
             <span class="place textbold">Event Organizer | Mentor</span>
           </div>
         </li>
@@ -52,7 +52,7 @@
             <i class="pe-7s-loop pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>AsiaBerlin Summit (APW)</h3>
+            <h3>AsiaBerlin Summit (ABS)</h3>
             <span class="place textbold">Event Organizer</span>
           </div>
         </li>
@@ -93,7 +93,7 @@
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
             <h3>DAInamite | Humanoid Robot Robocup SPL Team</h3>
-            <span class="place textbold">Roboticist | Community Scientist</span>
+            <span class="place textbold">Community Scientist</span>
           </div>
         </li>
       </ul>
