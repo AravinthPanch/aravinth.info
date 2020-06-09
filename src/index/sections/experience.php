@@ -12,20 +12,10 @@
         <div class="title-icon-container">
           <div class="title-icon"><i class="pe-7s-news-paper pe-2x pe-va"></i></div>
         </div>
-        <h2>Active Founder | Employee</h2>
+        <h2>Employed</h2>
       </div>
       <!--/.subtitile -->
       <ul class="timeline">
-        <li>
-          <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">May 2003 - Current</time>
-          <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-            <i class="pe-7s-news-paper pe-va"></i>
-          </div>
-          <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Founder | Interdisciplinary Expert</h3>
-            <span class="place textbold">araCreate : Global</span>
-          </div>
-        </li>
         <li>
           <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Jun 2019 - Apr 2020</time>
           <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">

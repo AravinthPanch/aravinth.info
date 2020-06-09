@@ -3,14 +3,24 @@
     <div class="title-icon-container">
       <div class="title-icon"><i class="pe-7s-link pe-2x pe-va"></i></div>
     </div>
-    <h2>Passive Founder | Affiliate</h2>
+    <h2>Freelanced | Affiliated</h2>
   </div>
   <!--/.subtitile -->
   <ul class="timeline">
     <li>
+      <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">May 2003 - Current</time>
+      <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
+        <i class="pe-7s-link pe-va"></i>
+      </div>
+      <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
+        <h3>Founder | Interdisciplinary Expert</h3>
+        <span class="place textbold">araCreate : Global</span>
+      </div>
+    </li>
+    <li>
       <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Aug 2018 - Current</time>
       <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-        <i class="pe-7s-news-paper pe-va"></i>
+        <i class="pe-7s-link pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
         <h3>Co-Founder | Director of Innovation</h3>
@@ -40,7 +50,7 @@
     <li>
       <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Jun 2020 - Current</time>
       <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-        <i class="pe-7s-display1 pe-va"></i>
+        <i class="pe-7s-link pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
         <h3>Advisory | BioTech & NanoTech</h3>
@@ -50,7 +60,7 @@
     <li>
       <time class="timeline-year wow animated fadeIn" data-wow-delay="0.2s">Apr 2020 - Current</time>
       <div class="timeline-icon wow animated fadeIn" data-wow-delay="0.2s">
-        <i class="pe-7s-display1 pe-va"></i>
+        <i class="pe-7s-link pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
         <h3>Global South Coordinator</h3>
