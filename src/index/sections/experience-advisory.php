@@ -43,7 +43,7 @@
         <i class="pe-7s-link pe-va"></i>
       </div>
       <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-        <h3>Advisory | Head of International Partnerships</h3>
+        <h3>Advisory | International Partnerships</h3>
         <span class="place textbold">MotionLab ML GmbH, Berlin, Germany</span>
       </div>
     </li>
