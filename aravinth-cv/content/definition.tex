@@ -2,7 +2,7 @@
 % Page setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[a4paper,10pt]{article} 
+\documentclass[a4paper,10pt]{article}
 \pagestyle{plain}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -15,16 +15,19 @@
 % Packages setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\usepackage{marvosym} 
-\usepackage{fontspec} 
+\usepackage{marvosym}
+\usepackage{fontspec}
 \usepackage{xunicode,xltxtra,url,parskip} %for loading fonts
 \RequirePackage{color,graphicx} %other packages for formatting
-\usepackage[usenames,dvipsnames]{xcolor} 
+\usepackage[usenames,dvipsnames]{xcolor}
 \usepackage[big]{layaureo}  %better formatting of the A4 page
-\usepackage{supertabular} 
+\usepackage{supertabular}
 \usepackage{titlesec} %for Grades
 \usepackage{longtable}
 \usepackage[UKenglish]{isodate}
+\usepackage{ascii}
+\usepackage{newunicodechar}
+\newunicodechar{♥}{\ETX}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % End of Packages setup
@@ -35,8 +38,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % PDF Setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{hyperref} 
-\definecolor{linkcolour}{rgb}{0,0.2,0.6} 
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
 \hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
 \hypersetup{
 	pdfstartview=FitH,
@@ -48,7 +51,7 @@
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% End of PDF Setup 
+% End of PDF Setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -56,16 +59,16 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Font setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\defaultfontfeatures{Mapping=tex-text} 
-\setmainfont[ 
-Path=./font/, 
-SmallCapsFont = Fontin-SmallCaps.otf, 
-BoldFont = Fontin-Bold.otf, 
-ItalicFont = Fontin-Italic.otf 
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[
+Path=./font/,
+SmallCapsFont = Fontin-SmallCaps.otf,
+BoldFont = Fontin-Bold.otf,
+ItalicFont = Fontin-Italic.otf
 ] {Fontin.otf}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% End of Font Setup 
+% End of Font Setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -79,7 +82,7 @@ ItalicFont = Fontin-Italic.otf
 \titleformat{
 \section}{\Large\scshape
 \raggedright}{}{0em}{}[
-\titlerule] 
+\titlerule]
 \titlespacing{
 \section}{0pt}{3pt}{3pt}
 
@@ -87,6 +90,7 @@ ItalicFont = Fontin-Italic.otf
 %\addtolength{\voffset}{-1.3cm}
 %Italian hyphenation for the word: ''corporations''
 \hyphenation{im-pre-se}
+
 
 %-------------WATERMARK TEST [**not part of a CV**]---------------
 \usepackage[absolute]{textpos}
@@ -96,5 +100,5 @@ ItalicFont = Fontin-Italic.otf
 \graphicspath{{./figures/}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% End of Misc Setup 
+% End of Misc Setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
