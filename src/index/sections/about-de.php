@@ -17,7 +17,7 @@
               Aravinth ist ein interdisziplinärer Experte mit mehr als 17 Jahren globaler Erfahrung in Wissenschaft, Technik, Kunst und Nachhaltigkeit. Er verfügt über die Kernkompetenz in Forschung, Entwicklung und Produktion von elektromechanischen eingebetteten Systemen und digitalen Produkten.
             </p>
             <p class="text-justify">
-              Als Ingenieur, arbeitete er für 2 große Unternehmen im Telekommunikationssektor und für 8 Tech-Startups im Bereich Bildung, Smart Home, Medien, Landwirtschaft, Energie, Gesundheitswesen und Wasser, in Asien und Europa, wo eines der Hardwareprodukte in mehr als 30.000 Stück verkauft wurde und das Softwareprodukt mehr als 10 Millionen Benutzer erreichte.
+              Als Ingenieur, arbeitete er für 2 große Unternehmen im Telekommunikationssektor und für 8 Tech-Startups im Bereich Bildung, Smart Home, Medien, Landwirtschaft, Energie, Gesundheitswesen und Wasser in Asien und Europa, wo eines der Hardwareprodukte in mehr als 30.000 Stück verkauft wurde und eines der Softwareprodukte  mehr als 10.000 Benutzer erreichte.
             </p>
             <p class="text-justify">
               Als Unternehmer, war er Mitbegründer von 7 Organisationen in den Bereichen Bildung, Nachhaltigkeit, Landwirtschaft, Beratung und Ingenieurdienstleistungen, in Asien und Europa.
@@ -32,7 +32,7 @@
               Als Berater, ist er Mitglied von 23 Organisationen und unterstützte mehrere Einzelpersonen, Startups, Gründerzentren, Innovationszentren, Unternehmen, Investoren, Hersteller, Forschungseinrichtungen, Universitäten, Regierungsinitiativen, Kunstgalerien und Sozialunternehmen, in mehr als 50 Ländern.
             </p>
             <p class="text-justify">
-              Als Künstler, hat er mehrere Kunstinstallationen für neue Medien für temporäre und permanente Ausstellungen mitgestaltet, die mehr als 1,5 Millionen Besucher, in Deutschland, Australien und den USA anzogen.
+              Als Künstler, hat er mehrere Kunstinstallationen für neue Medien für temporäre und permanente Ausstellungen mitgestaltet, die mehr als 1,5 Millionen Besucher, in Deutschland, Australien und den USA bezogen.
             </p>
             <p class="text-justify">
               Als Community-Builder, hat er mehrere Communities für Startups, Nachhaltigkeit, Bildung und Kunst mitgestaltet und kuratiert, in Asien, Europa und Afrika.

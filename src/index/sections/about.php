@@ -17,7 +17,7 @@
               Aravinth is an interdisciplinary expert with 17+ years of global experience in science, engineering, arts and sustainability, with the core expertise in research, development and production of electro-mechanical embedded systems and digital products.
             </p>
             <p class="text-justify">
-              As an engineer, he worked for 2 corporates in the telecom sector and worked for 8 tech startups in the sector of education, smart home, media, agriculture, energy, healthcare & water, in Asia & Europe, where one of the hardware product was sold in 30K+ quantities and software product reached 10M+ users.
+              As an engineer, he worked for 2 big corporates in the telecom sector and worked for 8 tech startups in the sector of education, smart home, media, agriculture, energy, healthcare & water, in Asia & Europe, where one of the hardware products was sold in 30K+ quantities and one of the software products reached 10M+ users.
             </p>
             <p class="text-justify">
               As an entrepreneur, he co-founded 7 organisations in the sector of education, sustainability, agriculture, consulting & engineering services, in Asia & Europe.
