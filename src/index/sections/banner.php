@@ -32,7 +32,10 @@
       </div>
       <div class="col-md-12">
         <div class="buttons">
-          <a href="#portfolio" class="def-btn">More about my work</a>
+          <a href="http://cv.aravinth.info" class="def-btn">My Resume</a>
+        </div>
+        <div class="buttons">
+          <a href="http://cal.aravinth.info" class="def-btn">Book Me</a>
         </div>
       </div>
     </div>

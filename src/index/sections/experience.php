@@ -92,7 +92,7 @@
             <i class="pe-7s-news-paper pe-va"></i>
           </div>
           <div class="timeline-label wow animated fadeIn" data-wow-delay="0.2s">
-            <h3>Systems Engineer</h3>
+            <h3>Senior Systems Engineer</h3>
             <span class="place textbold">Infosys Ltd, Mysore, India</span>
           </div>
         </li>
