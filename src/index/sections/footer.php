@@ -24,7 +24,7 @@
       </ul>
     </div>
     <div class="col-md-12 col-sm-12 copyright">
-      <h6>&copy; 2015-
+      <h6>&copy; 2008-
         <?php echo date('Y'); ?>.
         All rights reserved.
         </br> Co-created by <a target="_blank" href="http://aravinth.info"><b>Aravinth Panch</b></a> | <a target="_blank" href="https://aracreate.com"><b>araCreate</b></a>
