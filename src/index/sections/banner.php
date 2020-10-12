@@ -31,12 +31,12 @@
         </ul>
       </div>
       <div class="col-md-12">
-        <div class="buttons">
+        <!-- <div class="buttons">
           <a href="http://cv.aravinth.info" class="def-btn">My Resume</a>
         </div>
         <div class="buttons">
           <a href="http://cal.aravinth.info" class="def-btn">Book Me</a>
-        </div>
+        </div> -->
       </div>
     </div>
     <!--/.container -->
