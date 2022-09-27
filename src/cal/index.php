@@ -1,1 +1,1 @@
-<?php header('Location: https://aracreate.youcanbook.me'); exit(); ?>
+<?php header('Location: https://aravinth.info/#contact'); exit(); ?>
