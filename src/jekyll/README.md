@@ -7,7 +7,7 @@ To test locally, run the following in your terminal:
 
 1. Clone repo locally
 1. `bundle install`
-2. `bundle exec jekyll serve`
+2. `bundle exec jekyll serve --livereload`
 3. Open your browser to `localhost:4000`
 
 ## Running locally with Docker
