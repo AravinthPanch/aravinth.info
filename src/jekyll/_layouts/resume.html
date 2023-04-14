@@ -203,7 +203,7 @@
     <!-- begin Projects -->
     <section class="content-section">
       <header class="section-header">
-        <h2>Projects</h2>
+        <h2>Products | Projects | Art</h2>
       </header>
 
       {% for project in site.data.projects %}
@@ -217,6 +217,27 @@
 
     </section>
     <!-- end Projects -->
+    {% endif %}
+    
+
+    {% if site.resume_section_talks %}
+    <!-- begin Talks -->
+    <section class="content-section">
+      <header class="section-header">
+        <h2> Talks | Workshops | Exhibitions</h2>
+      </header>
+
+      {% for talk in site.data.talks %}
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">{% if talk.url %}<a href="{{ talk.url }}" itemprop="url">{{ talk.talk }}</a>{% else %}{{ talk.talk }}{% endif %}</h3>
+        <p class="resume-item-details" itemprop="description">{{ talk.location }}  &bull; {{ talk.datetime }} &bull; {{ talk.description }}</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      {% endfor %}
+
+    </section>
+    <!-- end Talks -->
     {% endif %}
 
 
