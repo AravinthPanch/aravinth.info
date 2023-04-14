@@ -1,12 +1,23 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Electronics + Embedded + Robotics
+  description: Hardware Design of Schematics, Footprints and Digital & Analog Circuits, Development of Baremetal Firmware, IoT & Embedded Linux, Development of AI, ML, Computer Vision & Motion Control Systems
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Mechanics + Fabrication + Manufacturing
+  description: Design of Manufacturable Electro-Mechanical Systems, Additive & Subtractive Manufacturing of Wood, Plastic & Metal, Design for Manufacturing, Assembly, Certification & Cost
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Software + DevOps
+  description: Development of Desktop, Web, Mobile & Cloud Applications, Deployment of Build, Test, Monitoring & Runtime Infrastructure
+
+- skill: Entrepreneurship
+  description: Business & Financial Modeling, Investment, Recruitment, Performance Marketing, Networking & Company Culture
+
+- skill: Leadership
+  description: Design Thinking, Product Development Lifecycle, Agile Project & Team Management (SCRUM & KANBAN), Team Building, Goal-setting, Coaching (NLP) & Expectation Management
+
+- skill: Multimedia
+  description: Design of Graphics & Audio-Visual-Haptic Art Installations
+
+- skill: Deep Tech
+  description: Sensor Design, BioTech, Bioinformatics & NanoTech (Graphene)
+
+- skill: Social
+  description: Community Building, Mentoring, Empowerment & Sustainability
