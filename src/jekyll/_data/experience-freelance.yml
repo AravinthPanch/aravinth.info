@@ -8,47 +8,17 @@
   duration: May 2018 - Present
   summary: Berlin, Germany
 
-- company: Motorskins GmbH
-  position: Advisory | Investment & Manufacturing
-  duration: Nov 2019 - Current
-  summary: Berlin, Germany
-
-- company: Access 2 Perspectives (A2P)
-  position: Mentor | Citizen Science
-  duration: Mar 2020 - Current
-  summary: Global South
-
-- company: Global Innovation Gathering (GIG)
-  position: Mentor | Event Organiser
-  duration: May 2019 - Current
-  summary: Global South
-
-- company: Vision Health Pioneers (VHP)
-  position: Mentor | MedTech & HealthTech
-  duration: Mar 2020 - Current
-  summary: Berlin, Germany
-
-- company: Sri Lanka Institute Of Nanotechnology
-  position: Advisory | Biotech & Nanotech
-  duration: Jun 2020 - Current
-  summary: Colombo, Sri Lanka
-
-- company: Advanced Material Pandemic Taskforce
-  position: Advisory | Nanotech
-  duration: Jun 2020 - Current
-  summary: USA
-
-- company: Orbital Machines
+- company: Orbital Machines Germany GmbH
   position: Advisory | SpaceTech & Investment
   duration: May 2021 - Dec 2021
   summary: Berlin, Germany
 
-- company: Assistr DHS GmbH
+- company: Assistr Digital Health Systems GmbH
   position: Advisory | Investment & Manufacturing
   duration: Sep 2018 - Jun 2019
   summary: Berlin, Germany
 
-- company: Metr BMS GmbH
+- company: METR Building Management Systems GmbH
   position: Advisory | Engineering & Manufacturing
   duration: Sep 2017 - Jun 2019
   summary: Berlin, Germany
@@ -58,17 +28,30 @@
   duration: Dec 2018 - Jun 2019
   summary: Berlin, Germany
 
-- company: Global Talent Mentoring
-  position: Mentor | Global South Coordinator
-  duration: Apr 2020 - Current
-  summary: Regensburg, Germany
+- company: Bevermann Consulting GmbH
+  position: Consultant | Dynamics CRM
+  duration: 2013
+  summary: Berlin, Germany
 
-- company: Innovation Network For Advanced Materials (INAM)
+- project: '---'
+  divider: INCUBATORS
+
+- company: DesignFarmBerlin - Incubator
+  position: Mentor | Hardware
+  duration: Mar 2020 - Current
+  summary: Berlin, Germany
+
+- company: Vision Health Pioneers (VHP) - Incubator
+  position: Mentor | MedTech & HealthTech
+  duration: Mar 2020 - Current
+  summary: Berlin, Germany
+
+- company: Innovation Network For Advanced Materials (INAM) - Incubator
   position: Mentor | NanoTech
   duration: Sep 2018 - Current
   summary: Berlin, Germany
 
-- company: The Startup Club
+- company: The Startup Club - Accelerator
   position: Mentor | EdTech
   duration: Apr 2020 - Current
   summary: Milan, Italy
@@ -78,40 +61,76 @@
   duration: Feb 2020 - Current
   summary: Berlin, Germany
 
-- company: Berlin Startup School
+- company: Berlin Startup School - Incubator
   position: Mentor | Hardware
   duration: Jan 2020 - Current
   summary: Berlin, Germany
 
-- company: Founder Institute (FI)
+- company: Founder Institute (FI) - Incubator
   position: Mentor | Hardware
   duration: Oct 2019 - Current
   summary: Berlin, Germany
 
-- company: Canary Islands Hub
+- company: Canary Islands Hub - Incubator
   position: Mentor | Mobility
   duration: Mar 2019 - Apr 2020
   summary: Gran Canaria, Spain
 
-- company: Decelera
+- company: Decelera - Decelerator
   position: Mentor | Social Impact
   duration: Apr 2019 - Current
   summary: Menorca, Spain
 
-- company: WLounge
+- company: WLounge - Accelerator
   position: Mentor | Company Culture
   duration: Nov 2019 - Current
   summary: Berlin, Germany
 
-- company: Singa Deutschland
+- company: Singa Deutschland - Incubator
   position: Mentor | Refugee Integration
   duration: Sep 2016 - Dec 2016
   summary: Berlin, Germany
 
+- project: '---'
+  divider: INSTITUIONS
+
+- company: Sri Lanka Institute Of Nanotechnology (SLINTEC)
+  position: Advisory | Biotech & Nanotech
+  duration: Jun 2020 - Current
+  summary: Colombo, Sri Lanka
+
+- company: DAI-NAMITE - Humanoid Robocup SPL - Technical University Of Berlin (TUB)
+  position: Roboticist
+  duration: Oct 2014 - Aug 2015
+  summary: Berlin, Germany
+
+- project: '---'
+  divider: ORGS
+
+- company: Access 2 Perspectives (A2P)
+  position: Mentor | Citizen Scientist
+  duration: Mar 2020 - Current
+  summary: Global South
+
+- company: Global Innovation Gathering e.V (GIG)
+  position: Mentor | Event Organiser
+  duration: May 2019 - Current
+  summary: Global South
+
+- company: Advanced Material Pandemic Taskforce (AMPT)
+  position: Advisory | Nanotech
+  duration: Jun 2020 - Current
+  summary: USA
+
+- company: Global Talent Mentoring (GTM) - Hamdan Foundation
+  position: Mentor | Global South Coordinator
+  duration: Apr 2020 - Current
+  summary: Regensburg, Germany
+
 - company: Just One Giant Lab (JOGL)
   position: Citizen Scientist | Event Organiser
   duration: Mar 2020 - Current
-  summary: Berlin, Germany
+  summary: Paris, Germany
 
 - company: Science HackDay Berlin (SHDB)
   position: Citizen Scientist | Event Organiser
@@ -126,9 +145,4 @@
 - company: Spektrum Berlin
   position: Artist | Event Organiser
   duration: Sep 2015 - Sep 2019
-  summary: Berlin, Germany
-
-- company: DAINAMITE - Humanoid Robot Robocup SPL Team
-  position: Roboticist
-  duration: Oct 2014 - Aug 2015
   summary: Berlin, Germany

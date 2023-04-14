@@ -1,16 +1,306 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+---
+- description: Prototype
+  duration: 2019 - 2020
+  project: Impedance Spectroscopy Sensor For Nitrate Measurement
+  role: Watergenics UG
+  url: https://watergenics.tech
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- description: Product
+  duration: 2017 - 2019
+  project: M-Gate - Wireless & Wired M-Bus Sub-Metering Gateway
+  role: METR Building Management Systems GmbH
+  url: https://metr.systems
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- description: Product
+  duration: 2017 - 2019
+  project: mgateOS - Embedded Linux OS For Sub-Metering Gateway
+  role: METR Building Management Systems GmbH
+  url: https://projects.aravinth.info/mgateos
+
+- description: Product
+  duration: 2016 - 2017
+  project: senicOS - Embedded Linux OS For Home Automation Gateway
+  role: Senic GmbH
+  url: https://github.com/getsenic
+
+- description: Product
+  duration: 2016 - 2017
+  project: Senic Hub - Smart Gateway For Home Automation
+  role: Senic GmbH
+  url: https://senic.com
+
+- description: Research
+  duration: 2016 - 2017
+  project: Senic Hub - WiFi & BLE Link Quality Benchmarking
+  role: Senic GmbH
+  url: https://projects.aravinth.info/wifi
+
+- description: Product
+  duration: 2016 - 2017
+  project: Nuimo - Smart Haptic Controller For Smart Home
+  role: Senic GmbH
+  url: https://senic.com/nuimo-control
+
+- description: Product
+  duration: 2015 - 2016
+  project: Industrial Hydroponics Fertigation & Automation System
+  role: macsxperts
+  url: https://projects.aravinth.info/macsxperts
+
+- description: Product
+  duration: 2015
+  project: Industrial Non-Intrusive Load Monitoring Gateway
+  role: smartB Energy Management GmbH
+  url: https://smartb.de
+
+- description: Product
+  duration: 2014 -2015
+  project: Jodel - Location-Based Anonymous Social Media with Content Moderation
+  role: The Jodel Venture GmbH
+  url: https://jodel.com
+
+- description: Prototype
+  duration: 2014
+  project: Telepresence Robot
+  role: Yetu AG
+  url: https://projects.aravinth.info/cam
+
+- description: Product
+  duration: 2013 - 2014
+  project: Smart Home Automation, Media & Energy Monitoring Gateway
+  role: Yetu AG
+  url: https://github.com/yetu
+
+- description: Product
+  duration: 2011
+  project: BP Alaska - Petroleum Vessels & Tanks Management System
+  role: British Petroleum - Infosys
+  url: null
+
+- description: Product
+  duration: 2011
+  project: Boeing - Aircraft Maintenance Records System
+  role: Boeing Corporation - Infosys
+  url: null
+
+- description: Product
+  duration: 2009
+  project: BSNL - Telecom Call Data Records System
+  role: BSNL - Tata Consultancy Services
+  url: null
+
+- project: '---'
+  divider: FREELANCE
+
+- description: Prototype
+  duration: 2020
+  project: Dentaria - Dental Health Management Tool
+  role: Hal9k Capital AG
+  url: https://github.com/AravinthPanch/dentaria
+
+- description: Product
+  duration: 2013
+  project: Shanti CRM - Marketing Campaign Management Tool
+  role: Bevermann Consulting GmbH
+  url: https://www.bevermann-consulting.de/
+
+- description: Prototype
+  duration: 2010
+  project: Academics LMU - E-Learning Management System
+  role: Liaoning Medical University
+  url: null
+
+- description: Design
+  duration: 2007
+  project: Branding
+  role: Purvottar Consultants
+  url: null
+
+- description: Prototype
+  duration: 2006
+  project: Electronic Parts Supply Chain Management Tool
+  role: BrokerForParts
+  url: null
+
+- description: Prototype
+  duration: 2003
+  project: Interactive Anatomy Learning Tool
+  role: Moscow Medical Academy
+  url: null
+
+- project: '---'
+  divider: RESEARCH
+
+- description: Research
+  duration: 2014 - 2015
+  project: Gesture Recognition For Human Robot Interaction
+  role: DAI-LABOR - Distributed Artificial Intelligence Laboratory
+  url: https://projects.aravinth.info/hri
+
+- description: Research
+  duration: 2013
+  project: RSSI Based Indoor localization
+  role: TKN - Telecommunication Networks Group
+  url: https://projects.aravinth.info/rssi
+
+- description: Research
+  duration: 2014
+  project: Smart Green House Monitoring System
+  role: TKN - Telecommunication Networks Group
+  url: https://projects.aravinth.info/green
+
+- description: Research
+  duration: 2013
+  project: DNA Recognition For Biometric Identification
+  role: T-LABS - Deutsche Telekom Innovation Laboratories
+  url: https://projects.aravinth.info/biometric
+
+- description: Research
+  duration: 2013
+  project: Cooperative Adaptive Cruise Control For Autonomous Vehicle
+  role: DCAITI - Daimler Center For Automotive Info Tech Innovations
+  url: null
+
+- description: Research
+  duration: 2007 - 2008
+  project: GSM DTMF Controlled Two Axes Robot For Fire And Metal Detection
+  role: SRM University
+  url: null
+
+- description: Research
+  duration: 2007
+  project: Steganography Message Concealment in RGB Images
+  role: SRM University
+  url: https://projects.aravinth.info/steg
+
+- project: '---'
+  divider: NEW MEDIA ARTS
+
+- description: New Media Art
+  duration: 2018 - 2019
+  project: araBeat - Sonification of Heartbeats using Electrocardiogram (ECG)
+  role: The Ackerberg Group's Heart of Uptown - Minneapolis, USA
+  url: https://projects.aravinth.info/arabeat
+
+- description: New Media Art
+  duration: 2015
+  project: Heart Of The City - Illumination of Heartbeats using Electrocardiogram (ECG)
+  role: VIVID Light Festival - Sydney, Australia
+  url: https://projects.aravinth.info/heart
+
+- description: New Media Art
+  duration: 2014
+  project: Confusion - Sonification of Psychosomatic Expressions
+  role: Museum of Contemporary Art - La Coruña, Spain
+  url: https://projects.aravinth.info/confusion
+
+- description: New Media Art
+  duration: 2015
+  project: Swan Lake Music Buzzer
+  role: Russian Ballet Painter - Berlin
+  url: https://projects.aravinth.info/swan
+
+- description: New Media Art
+  duration: 2014
+  project: Spectral Acoustic Emitter
+  role: Spectrum - Berlin
+  url: https://projects.aravinth.info/spectral
+
+- project: '---'
+  divider: COMMUNITY
+
+- description: Grassroots Innovation
+  duration: 2020
+  project: Corona Detective - A Low-Cost SARS-CoV-2 Rapid Test Kit For Global South
+  role: OpenCovid - Just One Giant Lab (JOGL)
+  url: https://projects.aravinth.info/covid
+
+- description: Grassroots Innovation
+  duration: 2020
+  project: CoronaBot - ChatBot To Provide Covid Information in Tamil
+  role: OpenCovid - Just One Giant Lab (JOGL)
+  url: https://corona.dreamspace.academy
+
+- description: Grassroots Innovation
+  duration: 2013
+  project: StreeMuFi - A platform to uplift Street Musicians
+  role: Geeklist Hack4Good
+  url: https://projects.aravinth.info/streemufi
+
+- project: '---'
+  divider: INTERNAL
+
+- description: Internal
+  duration: 2019
+  project: araMetrics - Impact Measurement System
+  role: araCreate GmbH
+  url: https://projects.aravinth.info/arametrics
+
+- description: Internal
+  duration: 2019
+  project: araCloud - Cloud Deployment DevOps
+  role: araCreate GmbH
+  url: https://projects.aravinth.info/aracloud
+
+- description: Internal
+  duration: 2016
+  project: araBot - Multipurpose Digital Fabrication Machine
+  role: araCreate GmbH
+  url: https://projects.aravinth.info/arabot
+
+- description: Internal
+  duration: 2015
+  project: Home DNS - OpenHAB Home Automation
+  role: araCreate GmbH
+  url: https://projects.aravinth.info/dns
+
+- project: '---'
+  divider: WEBSITES
+
+- description: Website
+  duration: 2019 - Current
+  project: www.araCreate.com
+  role: araCreate GmbH
+  url: https://araCreate.com
+
+- description: Website
+  duration: 2008 - Current
+  project: www.aravinth.info
+  role: araCreate GmbH
+  url: https://aravinth.info
+
+- description: Website
+  duration: 2018 - Current
+  project: www.dreamspace.academy
+  role: DreamSpace Academy
+  url: https://dreamspace.academy
+
+- description: Website
+  duration: 2019
+  project: www.watergenics.tech
+  role: Watergenics UG
+  url: https://github.com/AravinthPanch/watergenics.tech
+
+- description: Website
+  duration: 2019
+  project: www.hardwarestartups.berlin
+  role: araCreate GmbH
+  url: https://github.com/AravinthPanch/hardwarestartups.berlin
+
+- description: Website
+  duration: 2015
+  project: www.macsxperts.com
+  role: macsxperts
+  url: https://github.com/AravinthPanch/macsxperts.com
+
+- description: Website
+  duration: 2011
+  project: www.kims-study.com
+  role: Karol Institute Of Medical Sciences (KIMS)
+  url: https://github.com/AravinthPanch/kims-study.com
+
+- description: Website
+  duration: 2009
+  project: www.studyatagm.in
+  role: Davinci Medical Academy LLP
+  url: https://dma-study.com
