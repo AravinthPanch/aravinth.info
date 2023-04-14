@@ -20,8 +20,8 @@ resume_contact_email: "web@aravinth.info"
 resume_contact_telephone: "+49 30 91437357"
 resume_contact_address: "araCreate GmbH, Hubertusstr. 5, 12163 Berlin"
 
-resume_header_contact_info: "araCreate GmbH, Hubertusstr. 5, 12163 Berlin • +49 30 91437357 • web@aracreate.com"
-display_header_contact_info: "false"
+resume_header_contact_info: "ஒரே கனா என் வாழ்விலே அதை நெஞ்சில் வைத்திருந்தேன், </br> கனா மெய்யாகும் நாள் வரை உயிர் கையில் வைத்திருப்பேன் !!!</br>"
+display_header_contact_info: "true"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
