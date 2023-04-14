@@ -287,13 +287,13 @@
     <section class="content-section">
 
       <header class="section-header">
-        <h2>Additional Links</h2>
+        <h2>Press</h2>
       </header>
 
       <div class="resume-item">
         <ul class="resume-item-list">
           {% for link in site.data.links %}
-          <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+          <li>{{ link.datetime }} {{ link.location }} : <a href={{ link.url }} itemprop="url" target="_blank">{{ link.description }}</a></li>
           {% endfor %}
         </ul>
       </div>
