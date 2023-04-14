@@ -1,5 +1,405 @@
-# links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+---
+- description: Global Innovation Gathering (GIG)
+  location: Germany
+  datetime: 31.05.2022
+  url: https://www.linkedin.com/posts/global-innovation-gathering_criticalmaking-innovation-environmentalsustainability-activity-6937126578036318208-uf79?
+
+- description: Global Innovation Gathering (GIG)
+  location: Germany
+  datetime: 23.05.2022
+  url: https://www.linkedin.com/posts/global-innovation-gathering_meettheteachers-criticalmaking-mentorshipprogramme-activity-6933310474511880192-6dAq?
+
+- description: Green School
+  location: Indonesia
+  datetime: 26.04.2022
+  url: https://thebridge.greenschool.org/2021/12/09/empowering-underserved-communities-in-the-war-affected-regions-of-sri-lanka-aravinth-panch-the-green-leadership-series-2/
+
+- description: Green School
+  location: Indonesia
+  datetime: 01.04.2022
+  url: https://www.youtube.com/watch?v=nWAMn-ojASo
+
+- description: International Journal Of Infectious Diseases
+  location: USA
+  datetime: 01.03.2022
+  url: https://www.ijidonline.com/article/S1201-9712(21)00987-5/fulltext#relatedArticles
+
+- description: DailyFT
+  location: Sri Lanka
+  datetime: 22.02.2022
+  url: https://www.ft.lk/agriculture/Webinar-puts-spotlight-on-organic-agricultural-trade-between-SL-and-Netherlands/31-730881
+
+- description: Battinatham
+  location: Sri Lanka
+  datetime: 27.11.2021
+  url: https://www.battinatham.com/2021/11/blog-post_890.html
+
+- description: Green School
+  location: Indonesia
+  datetime: 27.11.2021
+  url: https://thebridge.greenschool.org/events/empowering-underserved-communities-in-the-war-affected-regions-of-sri-lanka-aravinth-panch-the-green-leadership-series/
+
+- description: Wildlabs
+  location: Global
+  datetime: 22.11.2021
+  url: https://wildlabs.net/discussion/digital-naturalism-conference-sri-lanka-2022
+
+- description: FU Berlin
+  location: Germany
+  datetime: 05.11.2021
+  url: https://www.fu-berlin.de/international/news-events/dates/panel-alumni-workshop.html
+
+- description: One Young World
+  location: UK
+  datetime: 12.10.2021
+  url: https://www.oneyoungworld.com/news-item/one-young-world-ambassadors-speak-world-bank-imf-annual-meetings
+
+- description: Worldbank
+  location: Global
+  datetime: 12.10.2021
+  url: https://live.worldbank.org/economic-growth-in-a-time-of-crisis
+
+- description: Worldbank
+  location: Global
+  datetime: 12.10.2021
+  url: https://www.youtube.com/watch?v=DiS21l9wBCw&t=4086s
+
+- description: Adaderana News
+  location: Sri Lanka
+  datetime: 09.09.2021
+  url: http://bizenglish.adaderana.lk/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/
+
+- description: DailyFT
+  location: Sri Lanka
+  datetime: 09.09.2021
+  url: https://www.ft.lk/it-telecom-tech/ICTA-and-partners-launch-10-000-Ideas-to-foster-next-generation-of-tech-entrepreneurs/50-722840
+
+- description: Biz Reporter
+  location: Sri Lanka
+  datetime: 09.09.2021
+  url: https://bizreporter.lk/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/business-and-economy/
+
+- description: Business Gossips
+  location: Sri Lanka
+  datetime: 09.09.2021
+  url: https://businessgossips.lk/2021/09/09/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/
+
+- description: Corpcom
+  location: Sri Lanka
+  datetime: 09.09.2021
+  url: https://corpcom.lk/2021/09/09/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/
+
+- description: DailyFT
+  location: Sri Lanka
+  datetime: 09.09.2021
+  url: https://www.ft.lk/it-telecom-tech/ICTA-and-partners-launch-10-000-Ideas-to-foster-next-generation-of-tech-entrepreneurs/50-722840
+
+- description: Tech Register
+  location: UK
+  datetime: 09.09.2021
+  url: https://www.techregister.co.uk/icta-and-partners-launch-10000-ideas-to-foster-next-generation-of-tech-entrepreneurs/
+
+- description: The Morning
+  location: Sri Lanka
+  datetime: 09.09.2021
+  url: https://www.themorning.lk/new-icta-initiative-to-grow-it-to-3-b-industry/
+
+- description: Washington Latest
+  location: USA
+  datetime: 09.09.2021
+  url: https://washingtonlatest.com/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas-adaderana-biz-english-sri-lanka-business-news-adaderana-lk/
+
+- description: GITA 2021
+  location: Germany
+  datetime: 03.09.2021
+  url: https://www.youtube.com/watch?v=NleDcdek2Ew
+
+- description: GITA 2021
+  location: Germany
+  datetime: 20.08.2021
+  url: https://www.linkedin.com/posts/thomasschindler_join-aravinth-panch-at-gita-1400-cet-activity-6834446771322671104-Ln-f/
+
+- description: The Building Culture
+  location: Germany
+  datetime: 08.08.2021
+  url: https://www.linkedin.com/posts/activity-6815601396881072128-iCqZ/
+
+- description: The Building Culture
+  location: Germany
+  datetime: 08.08.2021
+  url: https://www.linkedin.com/posts/activity-6816466343534047232-BDcK/
+
+- description: The Building Culture
+  location: Germany
+  datetime: 08.08.2021
+  url: https://www.linkedin.com/posts/activity-6809554810996580352-UsWP/
+
+- description: The Building Culture
+  location: Germany
+  datetime: 08.08.2021
+  url: https://www.youtube.com/playlist?list=PLrOeA8xRZt1e7mYbZDQlpqd47aoTYXmSV
+
+- description: Biocord Network Summer Conference 2021
+  location: India
+  datetime: 23.07.2021
+  url: https://www.youtube.com/watch?v=RnAqA96PMdU
+
+- description: Biocord Network Summer Conference 2021
+  location: India
+  datetime: 23.07.2021
+  url: https://www.bcnconference.org/aravinth-panch
+
+- description: One Young World 2021
+  location: Germany
+  datetime: 23.07.2021
+  url: https://www.oneyoungworld.com/community/oyw2021
+
+- description: Matrix Advisory Group
+  location: USA
+  datetime: 01.07.2021
+  url: https://www.izabelalundberg.com/team
+
+- description: Mitti Ke Rang
+  location: India
+  datetime: 09.06.2021
+  url: https://anchor.fm/mitti-ke-rang/episodes/In-Conversation-with-Aravinth-Panch-eujdki
+
+- description: Almasryalyoum News
+  location: Egypt
+  datetime: 05.05.2021
+  url: https://www.almasryalyoum.com/news/details/2325174
+
+- description: Cairo Climate Talks
+  location: Egypt
+  datetime: 03.05.2021
+  url: https://www.youtube.com/watch?v=SQ8XhFYqh8o
+
+- description: Cairo Climate Talks
+  location: Egypt
+  datetime: 03.05.2021
+  url: https://www.youtube.com/watch?v=y7Oee20RnM4
+
+- description: Global Talent Mentoring
+  location: Germany
+  datetime: 03.05.2021
+  url: https://globaltalentmentoring.org/2021/05/03/talent-development-in-the-global-south/
+
+- description: AMPT - Matter Forum 2021
+  location: USA
+  datetime: 28.04.2021
+  url: https://www.amptnetwork.com/events/matter-2021
+
+- description: The Morning
+  location: Sri Lanka
+  datetime: 23.04.2021
+  url: https://www.themorning.lk/sri-lankas-duke-of-edinburghs-international-award-award-recipients-on-becoming-brilliant-versions-of-themselves/
+
+- description: Adaderana News
+  location: Sri Lanka
+  datetime: 20.04.2021
+  url: http://bizenglish.adaderana.lk/mou-signed-between-icta-sri-lanka-and-enpact-e-v-germany-to-collaborate-between-startup-ecosystems-and-webinar-on-agritech-and-watertech/
+
+- description: Colombo Page
+  location: Sri Lanka
+  datetime: 19.04.2021
+  url: http://www.colombopage.com/archive_21A/Apr19_1618842599CH.php
+
+- description: Sunday Times
+  location: Sri Lanka
+  datetime: 18.04.2021
+  url: http://www.sundaytimes.lk/210418/business-times/icta-and-german-company-to-collaborate-on-start-ups-440109.html
+
+- description: Business News LK
+  location: Sri Lanka
+  datetime: 16.04.2021
+  url: http://www.businessnews.lk/2021/04/16/icta-inks-mou-with-enpact-e-v-germany/
+
+- description: DailyFT
+  location: Sri Lanka
+  datetime: 16.04.2021
+  url: https://www.ft.lk/business/MoU-signed-between-ICTA-SL-and-Germany-s-ENPACT-e-V/34-716306
+
+- description: AsiaBerlin ICTA Sri Lanka
+  location: Germany
+  datetime: 14.04.2021
+  url: https://www.youtube.com/watch?v=2WzCZbvdsMI
+
+- description: Sri Lankan Embassy Berlin
+  location: Germany
+  datetime: 12.04.2021
+  url: https://www.srilanka-botschaft.de/de/nachrichten/botschaft/pressemitteilung-zwischen-icta-sri-lanka-und-enpact-e-v-deutschland-unterzeichnetes-mou-zur-zusammenarbeit-zwischen-startup-oekosystemen-und-webinar-zu-agritech-und-watertech
+
+- description: Skills Of The Future
+  location: Romania
+  datetime: 18.03.2021
+  url: https://www.youtube.com/watch?v=ZlLwYEDxb88
+
+- description: Genscript - Women In STEM
+  location: USA
+  datetime: 28.02.2021
+  url: https://www.linkedin.com/posts/genscript-corporation_women-in-science-technology-engineering-activity-6769999236143558656-9tgK
+
+- description: Witnessstories
+  location: Sri Lanka
+  datetime: 25.02.2021
+  url: https://witnessstories.blogspot.com/2021/02/batticaloa-dreamspace-academy.html
+
+- description: Vanakkam London
+  location: UK
+  datetime: 24.02.2021
+  url: https://vanakkamlondon.com/world/srilanka/2021/02/102853/
+
+- description: Just One Giant Lab (JOGL)
+  location: France
+  datetime: 21.02.2021
+  url: https://www.linkedin.com/posts/jogl_opensource-activity-6764613548342562816-8K5i
+
+- description: UNDP - National Youth Dialogue 2021
+  location: Sri Lanka
+  datetime: 18.02.2021
+  url: https://hackadev.lk/nyd2021/event/greener-youth-for-greener-planet/
+
+- description: Global Innovation Gathering (GIG)
+  location: Germany
+  datetime: 12.02.2021
+  url: https://coactproject.eu/news/a-new-family-is-born-join-coacts-opencitizensocialscience-community/
+
+- description: Good Market
+  location: Sri Lanka
+  datetime: 09.01.2021
+  url: https://www.goodmarket.global/info/new-community-members-for-december-2020/
+
+- description: MP. Shanakiyan At The Parliament
+  location: Sri Lanka
+  datetime: 09.01.2021
+  url: https://www.facebook.com/shanakiyan.rasamanickam/videos/2654652824824618
+
+- description: Peace Direct
+  location: USA
+  datetime: 09.12.2020
+  url: https://www.peacedirect.org/2020-peace-direct-award/
+
+- description: Success Across Boundaries
+  location: Germany
+  datetime: 09.12.2020
+  url: https://soundcloud.com/successacrossboundaries/aravinth-panch
+
+- description: Careables
+  location: Germany
+  datetime: 04.12.2020
+  url: https://twitter.com/CareablesOrg/status/1334765481362944002/
+
+- description: Les Echos
+  location: France
+  datetime: 27.11.2020
+  url: https://www.lesechos.fr/weekend/perso/lintelligence-collective-arme-anti-covid-1268773
+
+- description: Bertelsmann Stiftung Change Magazin
+  location: Germany
+  datetime: 18.11.2020
+  url: https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/Infomaterialien/IN_change_Magazin_2_2020_201118.pdf#page=7
+
+- description: Earth Company
+  location: Indonesia
+  datetime: 15.11.2020
+  url: https://www.earthcompany.info/blog/impact-hero-2021-finalists/
+
+- description: Falling Walls
+  location: Germany
+  datetime: 09.11.2020
+  url: https://falling-walls.com/people/dreamspace-academy/
+
+- description: Growthpreneurs
+  location: USA
+  datetime: 30.10.2020
+  url: https://www.buzzsprout.com/1516996/6637498-how-dreamspace-academy-is-creating-entrepreneurs-in-sri-lanka
+
+- description: iGEM Foundation
+  location: France
+  datetime: 29.10.2020
+  url: https://blog.igem.org/blog/2020/10/29/women-in-science-technology-engineering-and-mathematics-stem-interview-series
+
+- description: iGEM Foundation
+  location: France
+  datetime: 29.10.2020
+  url: https://www.youtube.com/watch?v=SHZh8gZKKk4
+
+- description: iGEM Foundation
+  location: France
+  datetime: 29.10.2020
+  url: https://www.youtube.com/watch?v=1xZbbmpp6dg
+
+- description: Global Community Bio Summit
+  location: USA
+  datetime: 10.10.2020
+  url: https://www.youtube.com/watch?v=leHvCi2AmNI
+
+- description: Global Innovation Gathering
+  location: Germany
+  datetime: 17.09.2020
+  url: https://www.globalinnovationgathering.org/2020/09/17/four-careables-members-have-been-chosen-as-global-community-bio-fellows/
+
+- description: Just One Giant Lab (JOGL)
+  location: France
+  datetime: 17.09.2020
+  url: https://medium.com/justonegiantlab/meet-coronahunter-a-semi-finalist-for-the-xprize-rapid-covid-testing-challenge-9ac658956168
+
+- description: XPRIZE Rapid Covid Testing challenge
+  location: USA
+  datetime: 17.09.2020
+  url: https://medium.com/justonegiantlab/meet-coronahunter-a-semi-finalist-for-the-xprize-rapid-covid-testing-challenge-9ac658956168
+
+- description: Vision Health Pioneers (VHP)
+  location: Germany
+  datetime: 15.09.2020
+  url: https://twitter.com/HealthPioneersB/status/1305913344486973441
+
+- description: Access 2 Perspective (A2P)
+  location: Germany
+  datetime: 18.08.2020
+  url: https://access2perspectives.org/2020/08/low-cost-loop-mediated-isothermal-amplification-kit-to-enhance-covid-testing-capacity-in-sri-lanka/
+
+- description: AsiaBerlin
+  location: Germany
+  datetime: 18.08.2020
+  url: https://www.instagram.com/p/CEEzonkqADs/
+
+- description: AsiaBerlin
+  location: Germany
+  datetime: 31.08.2020
+  url: https://asia.berlin/meet-these-berlin-startups-at-asiaberlin-summit-2020/
+
+- description: AsiaBerlin
+  location: Germany
+  datetime: 23.08.2020
+  url: https://www.youtube.com/watch?v=mxfiVYgYbRk
+
+- description: AsiaBerlin
+  location: Germany
+  datetime: 20.11.2020
+  url: https://www.youtube.com/watch?v=KA_RqcnO0Eg
+
+- description: AsiaBerlin
+  location: Germany
+  datetime: 23.11.2020
+  url: https://www.youtube.com/watch?v=DXpmp2YfpRk,
+
+- description: DailyFT
+  location: Sri Lanka
+  datetime: 18.08.2020
+  url: http://www.ft.lk/front-page/slintec-develops-low-cost-loop-mediated-isothermal-amplification-kit-to-enhance-covid-testing-capacity/44-704715
+
+- description: Hackcorona
+  location: Greece
+  datetime: 26.03.2020
+  url: https://www.healthcapital.de/news/artikel/hackcorona-virtual-hackathon-by-data-natives-hacking-health-1-million-social-media-impressions/
+
+- description: Global Talent Mentoring
+  location: Germany
+  datetime: 01.01.2020
+  url: https://globaltalentmentoring.org/pi/aracreate/
+
+- description: Wellbeing Economy Alliance
+  location: UK
+  datetime: 01.01.2020
+  url: https://wellbeingeconomy.org/how-can-makerspaces-help-build-climate-change-resilience
