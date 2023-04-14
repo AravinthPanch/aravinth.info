@@ -82,6 +82,18 @@
       </div><!-- end of resume-item -->
       {% endfor %}
 
+      <header class="section-header">
+        <h2>Experience | Freelance</h2>
+      </header>
+
+      {% for job in site.data.experience-freelance %}
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}  &bull; {{ job.summary }}</p>
+        <!-- <p class="resume-item-copy"></p> -->
+      </div><!-- end of resume-item -->
+      {% endfor %}
+
     </section>
     <!-- end Experience -->
     {% endif %}
