@@ -1,0 +1,66 @@
+# Site settings
+title: "Aravinth Panch"
+description: "Empowering underserved communities | Helping companies to realise their ideas from mind to market"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar: "true"
+resume_name: "Aravinth Panch"
+resume_title: "Social & Tech Entrepreneur"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email: "web@aravinth.info"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone: "+49 30 91437357"
+resume_contact_address: "araCreate GmbH, Hubertusstr. 5, 12163 Berlin"
+
+resume_header_contact_info: "araCreate GmbH, Hubertusstr. 5, 12163 Berlin • +49 30 91437357 • web@aracreate.com"
+display_header_contact_info: "false"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work: "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience: true
+resume_section_education: false
+resume_section_projects: false
+resume_section_skills: false
+resume_section_recognition: false
+resume_section_links: false
+resume_section_associations: false
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_linkedin_url: "https://www.linkedin.com/in/aravinthpanch/"
+  resume_github_url: "https://github.com/AravinthPanch"
+  resume_twitter_url: "http://twitter.com/AravinthPanch"
+  resume_facebook_url: "https://www.facebook.com/AravinthPanch"
+  resume_instagram_url: "https://www.instagram.com/AravinthPanch/"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links: true
+
+# Design settings
+resume_theme: default
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
+
+exclude: 
+  - Gemfile*
+  - Dockerfile
+  - LICENSE
+  - README.md
