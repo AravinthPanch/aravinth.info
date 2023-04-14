@@ -55,7 +55,7 @@
 
 - description: Product
   duration: 2014 -2015
-  project: Location-Based Anonymous Social Media with Realtime Content Moderation
+  project: Jodel - Location-Based Anonymous Social Media with Content Moderation
   role: The Jodel Venture GmbH
   url: https://jodel.com
 
@@ -73,21 +73,23 @@
 
 - description: Product
   duration: 2011
-  project: Boeing Aircraft Maintenance Records System
+  project: BP Alaska - Petroleum Vessels & Tanks Management System
+  role: British Petroleum - Infosys
+  url: null
+
+- description: Product
+  duration: 2011
+  project: Boeing - Aircraft Maintenance Records System
   role: Boeing Corporation - Infosys
   url: null
 
 - description: Product
   duration: 2009
-  project: BSNL Telecom Call Data Records System
+  project: BSNL - Telecom Call Data Records System
   role: BSNL - Tata Consultancy Services
   url: null
 
-- description: null
-  duration: null
-  project: '---'
-  role: null
-  url: null
+- project: '---'
   divider: FREELANCE
 
 - description: Prototype
@@ -126,11 +128,7 @@
   role: Moscow Medical Academy
   url: null
 
-- description: null
-  duration: null
-  project: '---'
-  role: null
-  url: null
+- project: '---'
   divider: RESEARCH
 
 - description: Research
@@ -175,11 +173,7 @@
   role: SRM University
   url: https://projects.aravinth.info/steg
 
-- description: null
-  duration: null
-  project: '---'
-  role: null
-  url: null
+- project: '---'
   divider: NEW MEDIA ARTS
 
 - description: New Media Art
@@ -212,36 +206,28 @@
   role: Spectrum - Berlin
   url: https://projects.aravinth.info/spectral
 
-- description: null
-  duration: null
-  project: '---'
-  role: null
-  url: null
+- project: '---'
   divider: COMMUNITY
 
-- description: null
+- description: Grassroots Innovation
   duration: 2020
-  project: Corona Detective
-  role: SARS-CoV-2 Rapid Test Kit
+  project: Corona Detective - A Low-Cost SARS-CoV-2 Rapid Test Kit For Global South
+  role: OpenCovid - Just One Giant Lab (JOGL)
   url: https://projects.aravinth.info/covid
 
-- description: null
+- description: Grassroots Innovation
   duration: 2020
-  project: CoronaBot
-  role: ChatBot in Tamil
+  project: CoronaBot - ChatBot To Provide Covid Information in Tamil
+  role: OpenCovid - Just One Giant Lab (JOGL)
   url: https://corona.dreamspace.academy
 
-- description: null
+- description: Grassroots Innovation
   duration: 2013
-  project: StreeMuFi
-  role: Street Musicians Platform
+  project: StreeMuFi - A platform to uplift Street Musicians
+  role: Geeklist Hack4Good
   url: https://projects.aravinth.info/streemufi
 
-- description: null
-  duration: null
-  project: '---'
-  role: null
-  url: null
+- project: '---'
   divider: INTERNAL
 
 - description: Internal
@@ -268,11 +254,7 @@
   role: araCreate GmbH
   url: https://projects.aravinth.info/dns
 
-- description: null
-  duration: null
-  project: '---'
-  role: null
-  url: null
+- project: '---'
   divider: WEBSITES
 
 - description: Website
