@@ -202,7 +202,7 @@
       {% for project in site.data.projects %}
       <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
         <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-        <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+        <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
         <p class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }} &bull; {{ project.description }}</p>
         <p class="resume-item-copy"></p>
       </div>
@@ -223,7 +223,7 @@
       {% for talk in site.data.talks %}
       <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
         <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-        <h3 class="resume-item-title" itemprop="name">{% if talk.url %}<a href="{{ talk.url }}" itemprop="url">{{ talk.talk }}</a>{% else %}{{ talk.talk }}{% endif %}</h3>
+        <h3 class="resume-item-title" itemprop="name">{% if talk.url %}<a href="{{ talk.url }}" itemprop="url" target="_blank">{{ talk.talk }}</a>{% else %}{{ talk.talk }}{% endif %}</h3>
         <p class="resume-item-details" itemprop="description">{{ talk.location }}  &bull; {{ talk.datetime }} &bull; {{ talk.description }}</p>
         <p class="resume-item-copy"></p>
       </div>
@@ -244,7 +244,7 @@
 
       {% for association in site.data.associations %}
       <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-        <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{
+        <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}" target="_blank">{{
             association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
         <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
         <p class="resume-item-copy">{{ association.summary }}</p>
@@ -315,7 +315,7 @@
       <p class="footer-line">
         www.aravinth.info
         </br>&copy; 2008-2023. All rights reserved.
-        </br><a id="change_cookies" href="#">Cookies Consent</a> | <a href="#">Imprint</a>
+        </br><a id="change_cookies" href="#" target="_blank">Cookies Consent</a> | <a href="#" target="_blank">Imprint</a>
       </p>
     </footer>
 
