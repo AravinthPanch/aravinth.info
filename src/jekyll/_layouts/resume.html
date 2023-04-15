@@ -65,8 +65,7 @@
       {% for job in site.data.experience-self %}
       <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
         <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }} &bull; {{
-          job.summary }}</p>
+        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.summary }} &bull; {{ job.duration }} </p>
         <!-- <p class="resume-item-copy">{{ job.summary }}</p> -->
       </div><!-- end of resume-item -->
       {% endfor %}
@@ -78,8 +77,7 @@
       {% for job in site.data.experience-invest %}
       <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
         <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }} &bull; {{
-          job.summary }}</p>
+        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.summary }} &bull; {{ job.duration }} </p>
       </div><!-- end of resume-item -->
       {% endfor %}
 
@@ -90,8 +88,7 @@
       {% for job in site.data.experience-employed %}
       <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
         <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }} &bull; {{
-          job.summary }}</p>
+        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.summary }} &bull; {{ job.duration }} </p>
       </div><!-- end of resume-item -->
       {% endfor %}
 
@@ -102,8 +99,7 @@
       {% for job in site.data.experience-freelance %}
       <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
         <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }} &bull; {{
-          job.summary }}</p>        
+        <p class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.summary }} &bull; {{ job.duration }} </p>
       </div><!-- end of resume-item -->
       {% endfor %}
 
@@ -122,8 +118,7 @@
       {% for education in site.data.education-academics %}
       <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
         <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-        <p class="resume-item-details" itemprop="description">{{ education.degree }} &bull; {{ education.year}} &bull;
-          {{ education.summary }}</p>
+        <p class="resume-item-details" itemprop="description">{{ education.degree }} &bull; {{ education.summary }} &bull; {{ education.year}} </p>
       </div>
       {% endfor %}
     </section>
@@ -136,8 +131,7 @@
       {% for education in site.data.education-research %}
       <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
         <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-        <p class="resume-item-details" itemprop="description">{{ education.degree }} &bull; {{ education.year}} &bull;
-          {{ education.summary }}</p>
+        <p class="resume-item-details" itemprop="description">{{ education.degree }} &bull; {{ education.summary }} &bull; {{ education.year}} </p>
       </div>
       {% endfor %}
     </section>
@@ -150,8 +144,7 @@
       {% for education in site.data.education-certifications %}
       <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
         <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-        <p class="resume-item-details" itemprop="description">{{ education.degree }} &bull; {{ education.year}} &bull;
-          {{ education.summary }}</p>
+        <p class="resume-item-details" itemprop="description">{{ education.degree }} &bull; {{ education.summary }} &bull; {{ education.year}} </p>
       </div>
       {% endfor %}
     </section>
