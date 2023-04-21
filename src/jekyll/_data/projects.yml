@@ -90,25 +90,25 @@
   duration: 2013
   project: Shanti CRM - Marketing Campaign Management Tool
   role: Bevermann Consulting GmbH
-  url: https://www.bevermann-consulting.de/
+  url: null
   
 - description: Product
   duration: 2011
   project: BP Alaska - Petroleum Vessels & Tanks Management System
   role: British Petroleum - Infosys
-  url: https://infosys.com
+  url: null
 
 - description: Product
   duration: 2011
   project: Boeing - Aircraft Maintenance Records System
   role: Boeing Corporation - Infosys
-  url: https://infosys.com
+  url: null
 
 - description: Product
   duration: 2009
   project: BSNL - Telecom Call Data Records System
   role: BSNL - Tata Consultancy Services
-  url: https://tcs.com
+  url: null
 
 - description: Prototype
   duration: 2010
