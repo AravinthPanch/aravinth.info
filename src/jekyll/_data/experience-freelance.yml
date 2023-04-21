@@ -100,15 +100,35 @@
 - project: '---'
   divider: INSTITUIONS
 
+- company: London School of Media and Management (LSMM)
+  position: Mentor | Media & Entrepreneurship 
+  duration: Feb 2023 - Current
+  summary: UK
+
+- company: Nelson College London (NCL)
+  position: Mentor | Entrepreneurship 
+  duration: Feb 2023 - Current
+  summary: UK
+
+- company: Sri Lanka Technological Campus Research University (SLTC)
+  position: Advisory | Innovation & Entrepreneurship 
+  duration: Dec 2022 - Current
+  summary: Sri Lanka
+
+- company: Sri Lanka Technological Campus Research University (SLTC)
+  position: Advisory | Innovation & Entrepreneurship 
+  duration: Dec 2022 - Current
+  summary: Sri Lanka
+
 - company: Sri Lanka Institute Of Nanotechnology (SLINTEC)
   position: Advisory | Biotech & Nanotech
-  duration: Jun 2020 - Dec 2022
-  summary: Colombo, Sri Lanka
+  duration: Jun 2020 - Current
+  summary: Sri Lanka
 
-- company: DAI-NAMITE - Humanoid Robocup SPL - Technical University Of Berlin (TUB)
-  position: Roboticist
+- company: Technical University Of Berlin (TUB)
+  position: Roboticist | DAI-NAMITE Humanoid Robocup
   duration: Oct 2014 - Aug 2015
-  summary: Berlin, Germany
+  summary: Germany
 
 - project: '---'
   divider: ORGS
