@@ -1,12 +1,12 @@
-- company: DreamSpace Academy | DreamSpace Foundation Guarantee Ltd
-  position: Co-Founder | Co-Director
-  duration: Jul 2017 - Present
-  summary: Batticaloa, Sri Lanka
-
 - company: araCreate GmbH + Pvt Ltd
   position: Founder | Managing Director
-  duration: May 2003 - Present
+  duration: 2003 - Present
   summary: Germany | Sri Lanka | India
+
+- company: DreamSpace Academy | DreamSpace Foundation
+  position: Co-Founder | Co-Director
+  duration: 2017 - Present
+  summary: Sri Lanka | Germany | India
 
 - company: Zerosec Solutions Pvt Ltd
   position: Co-Founder | Co-Director
@@ -14,13 +14,18 @@
   summary: Erode, India
 
 - company: BatchOne GmbH
-  position: Partner | Consultant
-  duration: Apr 2020 - Present
+  position: Partner
+  duration: 2020 - Present
   summary: Munich, Germany
+
+- company: Hybrid 360 Art Tech Pvt Ltd
+  position: Partner
+  duration: 2022 - Present
+  summary: Chennai, Germany
 
 - company: AsiaBerlin by The Berlin Senate
   position: Ambassador | Startup Diplomacy
-  duration: Apr 2019 - Present
+  duration: 2019 - Present
   summary: Berlin, Germany
 
 - project: '---'
