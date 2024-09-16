@@ -1,0 +1,1683 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Aravinth Panch</title>
+
+  <!-- Google font typography settings - defined in _config.yml -->
+  
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700|Open+Sans:400,300,800,700' rel='stylesheet' type='text/css'>
+  
+
+  <meta name="description" content="Empowering underserved communities | Helping companies to realise their ideas from mind to market">
+
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="canonical" href="/">
+  <link rel="icon" type="image/x-icon" href="images/favicon.png" />
+</head>
+
+
+<body class="theme-default">
+
+  <div class="wrapper" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="telephone" content="+49 30 91437357" />
+    <meta itemprop="address" content="araCreate GmbH, Hubertusstr. 5, 12163 Berlin" />
+
+    <header class="page-header">
+
+      <!-- You can turn off the avatar in _config.yml by setting to false -->
+      
+      <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+      
+
+      <!-- Your name is defined in the _config.yml file -->
+      <h1 class="header-name" itemprop="name">Aravinth Panch</h1>
+
+      <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
+      
+      <div class="header-contact-info">
+        <p>#education #innovation #entrepreneurship #sustainability</p>
+      </div>
+      
+
+      <div class="title-bar no-print">
+
+        <!-- Your title is also defined in the _config.yml file -->
+        <h2 class="header-title" itemprop="jobTitle">Social & Tech Entrepreneur</h2>
+
+        <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
+        <!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+
+<ul class="icon-links">
+
+  <!-- LinkedIn link -->
+  
+  <li class="icon-link-item"><a href="https://www.linkedin.com/in/aravinthpanch/" class="icon-link" itemprop="sameAs" target="_blank"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="LinkedIn" fill="#D1CECC" d="M18.82,15.09v3.61h-2.09v-3.37c0-0.85-0.3-1.42-1.06-1.42c-0.58,0-0.92,0.39-1.07,0.77
+  c-0.06,0.13-0.07,0.32-0.07,0.51v3.52h-2.09c0,0,0.03-5.71,0-6.3h2.09v0.89c0,0.01-0.01,0.01-0.01,0.02h0.01V13.3
+  c0.28-0.43,0.77-1.04,1.89-1.04C17.79,12.25,18.82,13.16,18.82,15.09z M9.18,18.7h2.09v-6.3H9.18V18.7z M10.24,9.36
+  c-0.72,0-1.19,0.47-1.19,1.09c0,0.61,0.45,1.09,1.16,1.09h0.01c0.73,0,1.18-0.48,1.18-1.09C11.39,9.84,10.95,9.36,10.24,9.36z
+   M28,14c0,7.73-6.27,14-14,14S0,21.73,0,14S6.27,0,14,0S28,6.27,28,14z M20.93,8.02c0-0.55-0.46-1-1.02-1H8.09
+  c-0.57,0-1.02,0.45-1.02,1v11.96c0,0.55,0.46,1,1.02,1h11.82c0.57,0,1.02-0.45,1.02-1V8.02z"/>
+</svg>
+</a></li>
+  
+
+  <!-- GitHub link -->
+  
+  <li class="icon-link-item"><a href="https://github.com/AravinthPanch" class="icon-link" itemprop="sameAs" target="_blank"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="GitHub" fill-rule="evenodd" clip-rule="evenodd" fill="#D1CECC" d="M14.01,0C6.27,0-0.01,6.28-0.01,14.02
+  c0,6.19,4.02,11.45,9.59,13.3c0.7,0.13,0.96-0.3,0.96-0.68c0-0.33-0.01-1.21-0.02-2.38c-3.9,0.85-4.72-1.88-4.72-1.88
+  c-0.64-1.62-1.56-2.05-1.56-2.05c-1.27-0.87,0.1-0.85,0.1-0.85c1.41,0.1,2.15,1.44,2.15,1.44c1.25,2.14,3.28,1.52,4.08,1.16
+  c0.13-0.91,0.49-1.52,0.89-1.87c-3.11-0.35-6.38-1.56-6.38-6.93c0-1.53,0.55-2.78,1.44-3.76C6.37,9.17,5.89,7.74,6.65,5.81
+  c0,0,1.18-0.38,3.85,1.44c1.12-0.31,2.32-0.47,3.51-0.47c1.19,0.01,2.39,0.16,3.51,0.47c2.68-1.81,3.85-1.44,3.85-1.44
+  c0.76,1.93,0.28,3.35,0.14,3.71c0.9,0.98,1.44,2.23,1.44,3.76c0,5.38-3.28,6.57-6.4,6.92c0.5,0.43,0.95,1.29,0.95,2.6
+  c0,1.87-0.02,3.39-0.02,3.84c0,0.37,0.25,0.81,0.96,0.67c5.56-1.86,9.58-7.11,9.58-13.3C28.03,6.28,21.75,0,14.01,0z"/>
+</svg>
+</a></li>
+  
+
+  <!-- Twitter link -->
+  
+  <li class="icon-link-item"><a href="http://twitter.com/AravinthPanch" class="icon-link" itemprop="sameAs" target="_blank"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="Twitter" fill="#D1CECC" d="M14,0C6.27,0,0,6.27,0,14s6.27,14,14,14s14-6.27,14-14S21.73,0,14,0z M20.69,10.57
+  c0.01,0.15,0.01,0.3,0.01,0.45c0,4.56-3.47,9.82-9.82,9.82c-1.95,0-3.76-0.57-5.29-1.55c0.27,0.03,0.54,0.05,0.82,0.05
+  c1.62,0,3.11-0.55,4.29-1.48c-1.51-0.03-2.79-1.03-3.23-2.4c0.21,0.04,0.43,0.06,0.65,0.06c0.31,0,0.62-0.04,0.91-0.12
+  c-1.58-0.32-2.77-1.71-2.77-3.39c0-0.01,0-0.03,0-0.04c0.47,0.26,1,0.41,1.56,0.43c-0.93-0.62-1.54-1.68-1.54-2.87
+  c0-0.63,0.17-1.23,0.47-1.74c1.7,2.09,4.25,3.46,7.12,3.61c-0.06-0.25-0.09-0.52-0.09-0.79c0-1.91,1.55-3.45,3.45-3.45
+  c0.99,0,1.89,0.42,2.52,1.09c0.79-0.15,1.53-0.44,2.19-0.84c-0.26,0.81-0.81,1.48-1.52,1.91c0.7-0.08,1.36-0.27,1.98-0.54
+  C21.95,9.47,21.37,10.08,20.69,10.57z"/>
+</svg>
+</a></li>
+  
+  
+  <!-- Medium link -->
+  
+
+  <!-- Dribbble link -->
+  
+
+  <!-- Facebook link -->
+  
+  <li class="icon-link-item"><a href="https://www.facebook.com/AravinthPanch" class="icon-link" itemprop="sameAs" target="_blank"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="Facebook" fill="#D1CECC" d="M14,0C6.27,0,0,6.27,0,14s6.27,14,14,14s14-6.27,14-14S21.73,0,14,0z M20.99,20.22
+  c0,0.43-0.35,0.77-0.77,0.77h-3.56v-5.42h1.82l0.27-2.11h-2.09v-1.35c0-0.61,0.17-1.03,1.05-1.03l1.12,0V9.2
+  c-0.19-0.03-0.86-0.08-1.63-0.08c-1.61,0-2.71,0.98-2.71,2.79v1.56h-1.82v2.11h1.82v5.42h-6.7c-0.43,0-0.77-0.35-0.77-0.77V7.78
+  c0-0.43,0.35-0.77,0.77-0.77h12.44c0.43,0,0.77,0.35,0.77,0.77V20.22z"/>
+</svg>
+</a></li>
+  
+
+  <!-- Instagram link -->
+  
+  <li class="icon-link-item"><a href="https://www.instagram.com/AravinthPanch/" class="icon-link" itemprop="sameAs" target="_blank"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="Instagram" fill="#D1CECC" d="M9.89,7.35h0.49v3.05H9.89V7.35z M7.35,8.26v2.15h0.49V7.44C7.55,7.58,7.35,7.89,7.35,8.26z
+   M18.22,10.3h1.36c0.51,0,0.92-0.41,0.92-0.92V8.38c0-0.51-0.41-0.92-0.92-0.92h-1.36c-0.51,0-0.92,0.41-0.92,0.92v0.99
+  C17.31,9.87,17.72,10.3,18.22,10.3z M8.2,7.35h0.49v3.05H8.2V7.35z M9.05,7.35h0.49v3.05H9.05V7.35z M14-0.01
+  C6.26-0.01-0.01,6.27-0.01,14S6.26,28.01,14,28.01S28.01,21.73,28.01,14S21.74-0.01,14-0.01z M6.63,7.93c0-0.71,0.58-1.3,1.3-1.3
+  h12.14c0.71,0,1.3,0.59,1.3,1.3v3.05h-4.56c-0.64-0.85-1.66-1.39-2.81-1.39s-2.16,0.55-2.81,1.39H6.63V7.93z M17.09,13.1
+  c0,1.7-1.39,3.09-3.09,3.09s-3.09-1.39-3.09-3.09s1.39-3.09,3.09-3.09C15.7,10.01,17.09,11.39,17.09,13.1z M21.37,20.07
+  c0,0.71-0.59,1.3-1.3,1.3H7.93c-0.71,0-1.3-0.59-1.3-1.3V11.5h4.24c-0.25,0.48-0.39,1.02-0.39,1.6c0,1.94,1.58,3.52,3.52,3.52
+  s3.52-1.58,3.52-3.52c0-0.57-0.14-1.12-0.39-1.6h4.24L21.37,20.07L21.37,20.07z M14,10.58c1.39,0,2.52,1.13,2.52,2.52
+  s-1.13,2.52-2.52,2.52s-2.52-1.13-2.52-2.52S12.61,10.58,14,10.58z"/>
+</svg>
+</a></li>
+  
+
+  <!-- Website link -->
+  
+
+</ul>
+
+
+      </div>
+
+      <div class="executive-summary" itemprop="description">
+        <p>As a <b>social entrepreneur</b>, empowering underserved communities in the Global South to tackle local
+          socio-economic and environmental challenges through challenge-based learning, grassroots innovation and impact
+          venture building.</p>
+        <p>As a <b>tech entrepreneur</b>, helping companies to realise their ideas from mind to market by providing 360°
+          consulting services (engineering, manufacturing, media, business, legal & training) with team members in
+          Germany, Sri Lanka and India.</p>
+      </div>
+
+      
+      <a href="mailto:web@aravinth.info" class="contact-button no-print" itemprop="email">Let's have a
+        chat?</a>
+      
+
+    </header>
+
+    
+    <!-- begin Experience -->
+    <section class="content-section">
+
+      <header class="section-header">
+        <h2>Experience | Self</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">araCreate GmbH + Pvt Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Founder | Managing Director &bull; Germany | Sri Lanka | India &bull; 2003 - Present </p>
+        <!-- <p class="resume-item-copy">Germany | Sri Lanka | India</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">DreamSpace Academy | DreamSpace Foundation</h3>
+        <p class="resume-item-details" itemprop="description">Co-Founder | Co-Director &bull; Sri Lanka | Germany | India &bull; 2017 - Present </p>
+        <!-- <p class="resume-item-copy">Sri Lanka | Germany | India</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Zerosec Solutions Pvt Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Co-Founder | Co-Director &bull; Erode, India &bull; Aug 2015 - Present </p>
+        <!-- <p class="resume-item-copy">Erode, India</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">BatchOne GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Partner &bull; Munich, Germany &bull; 2020 - Present </p>
+        <!-- <p class="resume-item-copy">Munich, Germany</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Hybrid 360 Art Tech Pvt Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Partner &bull; Chennai, Germany &bull; 2022 - Present </p>
+        <!-- <p class="resume-item-copy">Chennai, Germany</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">AsiaBerlin by The Berlin Senate</h3>
+        <p class="resume-item-details" itemprop="description">Ambassador | Startup Diplomacy &bull; Berlin, Germany &bull; 2019 - Present </p>
+        <!-- <p class="resume-item-copy">Berlin, Germany</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name"></h3>
+        <p class="resume-item-details" itemprop="description"> &bull;  &bull;  </p>
+        <!-- <p class="resume-item-copy"></p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Watergenics UG</h3>
+        <p class="resume-item-details" itemprop="description">Co-Founder | Chief Technology Officer &bull; Berlin, Germany &bull; Jul 2019 - Apr 2020 </p>
+        <!-- <p class="resume-item-copy">Berlin, Germany</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">GreenBuzz Berlin e.V.</h3>
+        <p class="resume-item-details" itemprop="description">Founding Member | Partnerships &bull; Berlin, Germany &bull; Feb 2014 - Jul 2017 </p>
+        <!-- <p class="resume-item-copy">Berlin, Germany</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">macsxperts</h3>
+        <p class="resume-item-details" itemprop="description">Co-Founder | Chief Technology Officer &bull; Bengaluru, India &bull; Oct 2015 - Mar 2016 </p>
+        <!-- <p class="resume-item-copy">Bengaluru, India</p> -->
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Davinci Medical Academy LLP</h3>
+        <p class="resume-item-details" itemprop="description">Co-Founder | Chief Technology Officer &bull; New Delhi, India &bull; Nov 2009 - Mar 2011 </p>
+        <!-- <p class="resume-item-copy">New Delhi, India</p> -->
+      </div><!-- end of resume-item -->
+      
+
+      <header class="section-header">
+        <h2>Experience | Investor</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Motorskins GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Investor &bull; Berlin, Germany &bull; Nov 2019 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Naga Pasumai Pvt Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Investor &bull; Batticaloa, Sri Lanka &bull; Dec 2022 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Escape Tours and Travels Pvt Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Investor &bull; Batticaloa, Sri Lanka &bull; Jul 2022 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Start Global LK Pvt Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Investor &bull; Batticaloa, Sri Lanka &bull; May 2022 - Dec 2022 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">OceanBiome Guarantee Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Co-Founder | Investor &bull; Batticaloa, Sri Lanka &bull; Nov 2020 - Dec 2022 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Trash for Trade Pvt Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Co-Founder | Investor &bull; Batticaloa, Sri Lanka &bull; Apr 2020 - Dec 2022 </p>
+      </div><!-- end of resume-item -->
+      
+
+      <header class="section-header">
+        <h2>Experience | Employed</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Next Big Thing AG</h3>
+        <p class="resume-item-details" itemprop="description">Head Of Embedded Systems Engineering &bull; Berlin, Germany &bull; Aug 2017 - Jun 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Senic GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Head Of Embedded Systems Engineering &bull; Berlin, Germany &bull; Apr 2016 - Jul 2017 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">smartB Energy Management GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Embedded Systems Engineer &bull; Berlin, Germany &bull; Aug 2015 - Sep 2015 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">The Jodel Venture GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Systems Architect &bull; Berlin, Germany &bull; Oct 2014 - May 2015 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">yetu AG</h3>
+        <p class="resume-item-details" itemprop="description">Embedded Systems Engineer &bull; Berlin, Germany &bull; Jan 2013 - Sep 2014 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Infosys Ltd</h3>
+        <p class="resume-item-details" itemprop="description">Senior Systems Engineer &bull; Mysuru, India &bull; Apr 2011 - Jul 2011 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Tata Consultancy Services</h3>
+        <p class="resume-item-details" itemprop="description">Systems Engineer &bull; New Delhi, India &bull; Oct 2008 - Oct 2009 </p>
+      </div><!-- end of resume-item -->
+      
+
+      <header class="section-header">
+        <h2>Experience | Freelance</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">MotionLab ML GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | International Partnerships &bull; Berlin, Germany &bull; May 2018 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Orbital Machines Germany GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | SpaceTech & Investment &bull; Berlin, Germany &bull; May 2021 - Dec 2021 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Wunderpen GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Consultant | Motion Control Systems &bull; Berlin, Germany &bull; Dec 2020 - Dec 2021 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">RSG Group GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Consultant | MIRAI | SportsTech &bull; Berlin, Germany &bull; Jun 2020 - Nov 2020 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Assistr Digital Health Systems GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Consultant | Investment & Manufacturing &bull; Berlin, Germany &bull; Sep 2018 - Jun 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">METR Building Management Systems GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Consultant | Engineering & Manufacturing &bull; Berlin, Germany &bull; Sep 2017 - Jun 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Carion Mobility GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Partnerships &bull; Berlin, Germany &bull; Dec 2018 - Jun 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Bevermann Consulting GmbH</h3>
+        <p class="resume-item-details" itemprop="description">Consultant | Dynamics CRM &bull; Berlin, Germany &bull; 2013 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name"></h3>
+        <p class="resume-item-details" itemprop="description"> &bull;  &bull;  </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">DesignFarmBerlin - Incubator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Hardware &bull; Berlin, Germany &bull; Mar 2020 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Vision Health Pioneers (VHP) - Incubator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | MedTech & HealthTech &bull; Berlin, Germany &bull; Mar 2020 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Innovation Network For Advanced Materials (INAM) - Incubator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | NanoTech &bull; Berlin, Germany &bull; Sep 2018 - Dec 2020 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">The Startup Club - Accelerator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | EdTech &bull; Milan, Italy &bull; Apr 2020 - Dec 2020 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Imagine2030 Mobility Accelerator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Mobility &bull; Berlin, Germany &bull; Feb 2020 - Dec 2020 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Berlin Startup School - Incubator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Hardware &bull; Berlin, Germany &bull; Jan 2020 - Dec 2020 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Founder Institute (FI) - Incubator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Hardware &bull; Berlin, Germany &bull; Oct 2019 - Dec 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Canary Islands Hub - Incubator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Mobility &bull; Gran Canaria, Spain &bull; Mar 2019 - Apr 2020 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Decelera - Decelerator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Social Impact &bull; Menorca, Spain &bull; Apr 2019 - Dec 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">WLounge - Accelerator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Company Culture &bull; Berlin, Germany &bull; Nov 2019 - Dec 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Singa Deutschland - Incubator</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Refugee Integration &bull; Berlin, Germany &bull; Sep 2016 - Dec 2016 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name"></h3>
+        <p class="resume-item-details" itemprop="description"> &bull;  &bull;  </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">London School of Media and Management (LSMM)</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Media & Entrepreneurship &bull; UK &bull; Feb 2023 - Current </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Nelson College London (NCL)</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Entrepreneurship &bull; UK &bull; Feb 2023 - Current </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Sri Lanka Technological Campus Research University (SLTC)</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Innovation & Entrepreneurship &bull; Sri Lanka &bull; Dec 2022 - Current </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Sri Lanka Technological Campus Research University (SLTC)</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Innovation & Entrepreneurship &bull; Sri Lanka &bull; Dec 2022 - Current </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Sri Lanka Institute Of Nanotechnology (SLINTEC)</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Biotech & Nanotech &bull; Sri Lanka &bull; Jun 2020 - Current </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Technical University Of Berlin (TUB)</h3>
+        <p class="resume-item-details" itemprop="description">Roboticist | DAI-NAMITE Humanoid Robocup &bull; Germany &bull; Oct 2014 - Aug 2015 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name"></h3>
+        <p class="resume-item-details" itemprop="description"> &bull;  &bull;  </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Access 2 Perspectives (A2P)</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Citizen Scientist &bull; Global South &bull; Mar 2020 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Global Innovation Gathering e.V (GIG)</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Event Organiser &bull; Global South &bull; May 2019 - Present </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Global Talent Mentoring (GTM) - Hamdan Foundation</h3>
+        <p class="resume-item-details" itemprop="description">Mentor | Global South Coordinator &bull; Regensburg, Germany &bull; Apr 2020 - Dec 2022 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Advanced Material Pandemic Taskforce (AMPT)</h3>
+        <p class="resume-item-details" itemprop="description">Advisory | Nanotech &bull; USA &bull; Jun 2020 - Dec 2021 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Just One Giant Lab (JOGL)</h3>
+        <p class="resume-item-details" itemprop="description">Citizen Scientist | Event Organiser &bull; Paris, Germany &bull; Mar 2020 - Dec 2020 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Science HackDay Berlin (SHDB)</h3>
+        <p class="resume-item-details" itemprop="description">Citizen Scientist | Event Organiser &bull; Berlin, Germany &bull; Oct 2014 - Dec 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Maker Faire Berlin</h3>
+        <p class="resume-item-details" itemprop="description">Maker | Event Organiser &bull; Berlin, Germany &bull; May 2015 - Dec 2019 </p>
+      </div><!-- end of resume-item -->
+      
+      <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <h3 class="resume-item-title" itemprop="name">Spektrum Berlin</h3>
+        <p class="resume-item-details" itemprop="description">Artist | Event Organiser &bull; Berlin, Germany &bull; Sep 2015 - Sep 2019 </p>
+      </div><!-- end of resume-item -->
+      
+
+    </section>
+    <!-- end Experience -->
+    
+
+
+    
+    <!-- begin Education -->
+    <section class="content-section">
+      <header class="section-header">
+        <h2>Education | Academics</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">Technical University of Berlin</h3>
+        <p class="resume-item-details" itemprop="description">Master of Science in Electrical Engineering &bull; Berlin, Germany &bull; 2011 - 2015 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">SRM University</h3>
+        <p class="resume-item-details" itemprop="description">Bachelor of Tech in Electronics and Communication Eng. &bull; Chennai, India &bull; 2004 - 2008 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">ARENA Multimedia</h3>
+        <p class="resume-item-details" itemprop="description">Associate's Degree in Multimedia &bull; Chennai, India &bull; 2003 - 2004 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">Velammal Matriculation Higher Secondary School</h3>
+        <p class="resume-item-details" itemprop="description">Matriculation Higher Secondary School &bull; Chennai, India &bull; 2003 - 2004 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">Methodist Central College</h3>
+        <p class="resume-item-details" itemprop="description">Primary School &bull; Batticaloa, Sri Lanka &bull; 1993 - 2001 </p>
+      </div>
+      
+    </section>
+
+    <section class="content-section">
+      <header class="section-header">
+        <h2>Education | Research</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">DAI-LABOR - Distributed Artificial Intelligence Laboratory</h3>
+        <p class="resume-item-details" itemprop="description">Humanoid Robotics &bull; Berlin, Germany &bull; 2014 - 2015 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">T-LABS - Deutsche Telekom Innovation Laboratories</h3>
+        <p class="resume-item-details" itemprop="description">Biometrics and Deep Security &bull; Berlin, Germany &bull; 2014 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">DCAITI - Daimler Center For Automotive Information Technology Innovations</h3>
+        <p class="resume-item-details" itemprop="description">Autonomous Vehicle | V2V & V2X Communication &bull; Berlin, Germany &bull; 2013 - 2014 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">TKN - Telecommunication Networks Group</h3>
+        <p class="resume-item-details" itemprop="description">Wireless Mesh Technologies &bull; Berlin, Germany &bull; 2013 </p>
+      </div>
+      
+    </section>
+
+    <section class="content-section">
+      <header class="section-header">
+        <h2>Education | Certifications</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">TestDAF - Test of German as Foreign Language</h3>
+        <p class="resume-item-details" itemprop="description">Score - 16/20 &bull; Berlin, Germany &bull; 2012 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">IELTS - International English Language Testing System</h3>
+        <p class="resume-item-details" itemprop="description">Score - 7.5/9 &bull; Bengaluru, India &bull; 2010 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">EC-Council - Ethical Hacking</h3>
+        <p class="resume-item-details" itemprop="description">White Hat &bull; Bengaluru, India &bull; 2010 </p>
+      </div>
+      
+      <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <h3 class="resume-item-title" itemprop="name">CCNA - Cisco Certified Networking Administration</h3>
+        <p class="resume-item-details" itemprop="description">HCL &bull; New Delhi, India &bull; 2009 </p>
+      </div>
+      
+    </section>
+    
+    <!-- end Education -->
+    
+
+
+
+    
+    <!-- begin Skills -->
+    <section class="content-section">
+
+      <header class="section-header">
+        <h2>Skills</h2>
+      </header>
+      
+      <div class="resume-item">
+        <h4 class="resume-item-details">Electronics + Embedded + Robotics + Multimedia + Deep Tech</h4>
+        <p class="resume-item-copy">Hardware Design of Schematics, Footprints and Digital & Analog Circuits, Development of Baremetal Firmware, IoT & Embedded Linux, Development of AI, ML, Computer Vision & Motion Control Systems, Design of Graphics & Audio-Visual-Haptic Art Installations, Sensor Design, BioTech, Bioinformatics & NanoTech (Graphene)</p>
+      </div>
+      
+      <div class="resume-item">
+        <h4 class="resume-item-details">Mechanics + Fabrication + Manufacturing</h4>
+        <p class="resume-item-copy">Design of Manufacturable Electro-Mechanical Systems, Additive & Subtractive Manufacturing of Wood, Plastic & Metal, Design for Manufacturing, Assembly, Certification & Cost</p>
+      </div>
+      
+      <div class="resume-item">
+        <h4 class="resume-item-details">Software + DevOps</h4>
+        <p class="resume-item-copy">Development of Desktop, Web, Mobile & Cloud Applications, Deployment of Build, Test, Monitoring & Runtime Infrastructure</p>
+      </div>
+      
+      <div class="resume-item">
+        <h4 class="resume-item-details">Entrepreneurship</h4>
+        <p class="resume-item-copy">Business & Financial Modeling, Investment, Recruitment, Performance Marketing, Networking & Company Culture, Community Building, Mentoring, Empowerment & Sustainability</p>
+      </div>
+      
+      <div class="resume-item">
+        <h4 class="resume-item-details">Leadership</h4>
+        <p class="resume-item-copy">Design Thinking, Product Development Lifecycle, Agile Project & Team Management (SCRUM & KANBAN), Team Building, Goal-setting, Coaching (NLP) & Expectation Management</p>
+      </div>
+      
+
+    </section>
+    <!-- end Skills -->
+    
+
+    
+    <!-- begin Recognition -->
+    <section class="content-section">
+
+      <header class="section-header">
+        <h2>Recognitions | Grants</h2>
+      </header>
+
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Next Generation Founders For Social Impact (DreamSpace)</h3>
+        <p class="resume-item-details">Lenovo Foundation • USA, India &bull; 2022 - 2024 &bull; 40,000$</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Artificial Intelligence For Sustaining Local Peacebuilding (DreamSpace)</h3>
+        <p class="resume-item-details">Global Communities + USAID • USA, Sri Lanka &bull; 2022 - 2023 &bull; 49,800$</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Intercultural Innovation Award (DreamSpace)</h3>
+        <p class="resume-item-details">UNAOC + BMW Group + Accenture • UAE, Germay, Mexico &bull; 2021 - 2023 &bull; 20,000$</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Media and Information Literacy For Peacebuilding (DreamSpace)</h3>
+        <p class="resume-item-details">IREX • Sri Lanka &bull; 2021 - 2022 &bull; 1.2 Million LKR</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Peace Direct Award (DreamSpace)</h3>
+        <p class="resume-item-details">Peace Direct + Alliance for Peacebuilding • USA &bull; 2020 &bull; 10,000$</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Impact Hero</h3>
+        <p class="resume-item-details">Earth Company • Japan + Indonesia &bull; 2020 &bull; </p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Global Community Bio Fellowship</h3>
+        <p class="resume-item-details">Global Community Bio Summit + MIT Media Lab • USA &bull; 2020 &bull; </p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">We-gital Camps (DreamSpace)</h3>
+        <p class="resume-item-details">Search for Common Ground • Sri Lanka &bull; 2020 &bull; 1.2 Million LKR</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Skills For Inclusive Growth (DreamSpace)</h3>
+        <p class="resume-item-details">Australian Aid • Sri Lanka &bull; 2020 &bull; 5.5 Million LKR</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Peacebuilding For Youth And Women (DreamSpace)</h3>
+        <p class="resume-item-details">UN Volunteers Sri Lanka + UNDP • Sri Lanka &bull; 2019 &bull; 8,000$</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Breakthrough Of The Year In Science Engagement (DreamSpace)</h3>
+        <p class="resume-item-details">Falling Walls Foundation + Robert Bosch Stiftung + Ministry of Education &bull; 2019 &bull; Germany</p>        
+      </div>
+      
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">Erasmus Mundus Scholarship</h3>
+        <p class="resume-item-details">European Union • Germany, UK, Italy, Japan &bull; 2011 &bull; 48,000€</p>        
+      </div>
+      
+
+    </section>
+    <!-- end Recognition -->
+    
+
+
+    
+    <!-- begin Projects -->
+    <section class="content-section">
+      <header class="section-header">
+        <h2>Products | Projects | Art</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://1less.org" itemprop="url" target="_blank">LAMY Kono - Productivity Device To Improve Focus And Time Tracking</a></h3>
+        <p class="resume-item-details" itemprop="description">C. Josef Lamy GmbH  &bull; 2021 - 2023 &bull; Protoype to Mass Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://www.agrilution.com" itemprop="url" target="_blank">Miele Plantcube - Fully Automated Indoor Vertical Farm For Home</a></h3>
+        <p class="resume-item-details" itemprop="description">Miele & Cie. KG | Agrilution Systems GmbH  &bull; 2022 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://1less.org" itemprop="url" target="_blank">1less - Smart Bin To Sort Reusable And Non-Reusable Utensils</a></h3>
+        <p class="resume-item-details" itemprop="description">1less GmbH  &bull; 2022 &bull; Prototype</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://watergenics.tech" itemprop="url" target="_blank">Impedance Spectroscopy Sensor For Nitrate Measurement</a></h3>
+        <p class="resume-item-details" itemprop="description">Watergenics UG  &bull; 2019 - 2020 &bull; Prototype</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://metr.systems" itemprop="url" target="_blank">M-Gate - Wireless & Wired M-Bus Sub-Metering Gateway</a></h3>
+        <p class="resume-item-details" itemprop="description">METR Building Management Systems GmbH  &bull; 2017 - 2019 &bull; Protoype to Mass Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/mgateos" itemprop="url" target="_blank">mgateOS - Embedded Linux OS For Sub-Metering Gateway</a></h3>
+        <p class="resume-item-details" itemprop="description">METR Building Management Systems GmbH  &bull; 2017 - 2019 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://github.com/getsenic" itemprop="url" target="_blank">senicOS - Embedded Linux OS For Home Automation Gateway</a></h3>
+        <p class="resume-item-details" itemprop="description">Senic GmbH  &bull; 2016 - 2017 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://senic.com" itemprop="url" target="_blank">Senic Hub - Smart Gateway For Home Automation</a></h3>
+        <p class="resume-item-details" itemprop="description">Senic GmbH  &bull; 2016 - 2017 &bull; Protoype to Mass Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://senic.com/nuimo-control" itemprop="url" target="_blank">Nuimo - Smart Haptic Controller For Smart Home</a></h3>
+        <p class="resume-item-details" itemprop="description">Senic GmbH  &bull; 2016 - 2017 &bull; Pilot to Mass Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/macsxperts" itemprop="url" target="_blank">Industrial Hydroponics Fertigation & Automation System</a></h3>
+        <p class="resume-item-details" itemprop="description">macsxperts  &bull; 2015 - 2016 &bull; Pilot Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://smartb.de" itemprop="url" target="_blank">Industrial Non-Intrusive Load Monitoring Gateway</a></h3>
+        <p class="resume-item-details" itemprop="description">smartB Energy Management GmbH  &bull; 2015 &bull; Protoype to Mass Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://github.com/yetu" itemprop="url" target="_blank">Smart Home Automation, Media & Energy Monitoring Gateway</a></h3>
+        <p class="resume-item-details" itemprop="description">Yetu AG  &bull; 2013 - 2014 &bull; Protoype to Pilot Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">---</h3>
+        <p class="resume-item-details" itemprop="description">  &bull;  &bull; </p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://jodel.com" itemprop="url" target="_blank">Jodel - Location-Based Anonymous Social Media with Content Moderation</a></h3>
+        <p class="resume-item-details" itemprop="description">The Jodel Venture GmbH  &bull; 2014 -2015 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://github.com/AravinthPanch/dentaria" itemprop="url" target="_blank">Dentaria - Dental Health Management Tool</a></h3>
+        <p class="resume-item-details" itemprop="description">Hal9k Capital AG  &bull; 2020 &bull; Prototype</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Shanti CRM - Marketing Campaign Management Tool</h3>
+        <p class="resume-item-details" itemprop="description">Bevermann Consulting GmbH  &bull; 2013 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">BP Alaska - Petroleum Vessels & Tanks Management System</h3>
+        <p class="resume-item-details" itemprop="description">British Petroleum - Infosys  &bull; 2011 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Boeing - Aircraft Maintenance Records System</h3>
+        <p class="resume-item-details" itemprop="description">Boeing Corporation - Infosys  &bull; 2011 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">BSNL - Telecom Call Data Records System</h3>
+        <p class="resume-item-details" itemprop="description">BSNL - Tata Consultancy Services  &bull; 2009 &bull; Product</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Academics LMU - E-Learning Management System</h3>
+        <p class="resume-item-details" itemprop="description">Liaoning Medical University  &bull; 2010 &bull; Prototype</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Electronic Parts Supply Chain Management Tool</h3>
+        <p class="resume-item-details" itemprop="description">BrokerForParts  &bull; 2006 &bull; Prototype</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Interactive Anatomy Learning Tool</h3>
+        <p class="resume-item-details" itemprop="description">Moscow Medical Academy  &bull; 2003 &bull; Prototype</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">---</h3>
+        <p class="resume-item-details" itemprop="description">  &bull;  &bull; </p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/wifi" itemprop="url" target="_blank">Senic Hub - WiFi & BLE Link Quality Benchmarking</a></h3>
+        <p class="resume-item-details" itemprop="description">Senic GmbH  &bull; 2016 - 2017 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/hri" itemprop="url" target="_blank">Gesture Recognition For Human Robot Interaction</a></h3>
+        <p class="resume-item-details" itemprop="description">DAI-LABOR - Distributed Artificial Intelligence Laboratory  &bull; 2014 - 2015 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/rssi" itemprop="url" target="_blank">RSSI Based Indoor localization</a></h3>
+        <p class="resume-item-details" itemprop="description">TKN - Telecommunication Networks Group  &bull; 2013 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/green" itemprop="url" target="_blank">Smart Green House Monitoring System</a></h3>
+        <p class="resume-item-details" itemprop="description">TKN - Telecommunication Networks Group  &bull; 2014 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/biometric" itemprop="url" target="_blank">DNA Recognition For Biometric Identification</a></h3>
+        <p class="resume-item-details" itemprop="description">T-LABS - Deutsche Telekom Innovation Laboratories  &bull; 2013 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://dcaiti.tu-berlin.de" itemprop="url" target="_blank">Cooperative Adaptive Cruise Control For Autonomous Vehicle</a></h3>
+        <p class="resume-item-details" itemprop="description">DCAITI - Daimler Center For Automotive Info Tech Innovations  &bull; 2013 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">GSM DTMF Controlled Two Axes Robot For Fire And Metal Detection</h3>
+        <p class="resume-item-details" itemprop="description">SRM University  &bull; 2007 - 2008 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/steg" itemprop="url" target="_blank">Steganography Message Concealment in RGB Images</a></h3>
+        <p class="resume-item-details" itemprop="description">SRM University  &bull; 2007 &bull; Research</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">---</h3>
+        <p class="resume-item-details" itemprop="description">  &bull;  &bull; </p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/arabeat" itemprop="url" target="_blank">araBeat - Sonification of Heartbeats using Electrocardiogram (ECG)</a></h3>
+        <p class="resume-item-details" itemprop="description">The Ackerberg Group's Heart of Uptown - Minneapolis, USA  &bull; 2018 - 2019 &bull; New Media Art</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/heart" itemprop="url" target="_blank">Heart Of The City - Illumination of Heartbeats using Electrocardiogram (ECG)</a></h3>
+        <p class="resume-item-details" itemprop="description">VIVID Light Festival - Sydney, Australia  &bull; 2015 &bull; New Media Art</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/confusion" itemprop="url" target="_blank">Confusion - Sonification of Psychosomatic Expressions</a></h3>
+        <p class="resume-item-details" itemprop="description">Museum of Contemporary Art - La Coruña, Spain  &bull; 2014 &bull; New Media Art</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/swan" itemprop="url" target="_blank">Swan Lake Music Buzzer</a></h3>
+        <p class="resume-item-details" itemprop="description">Russian Ballet Painter - Berlin  &bull; 2015 &bull; New Media Art</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/spectral" itemprop="url" target="_blank">Spectral Acoustic Emitter</a></h3>
+        <p class="resume-item-details" itemprop="description">Spectrum - Berlin  &bull; 2014 &bull; New Media Art</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">---</h3>
+        <p class="resume-item-details" itemprop="description">  &bull;  &bull; </p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/covid" itemprop="url" target="_blank">Corona Detective - Low-Cost SARS-CoV-2 Rapid Test Kit For Global South</a></h3>
+        <p class="resume-item-details" itemprop="description">OpenCovid - Just One Giant Lab (JOGL)  &bull; 2020 &bull; Grassroots Innovation</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://corona.dreamspace.academy" itemprop="url" target="_blank">CoronaBot - ChatBot To Provide Covid Information in Tamil</a></h3>
+        <p class="resume-item-details" itemprop="description">OpenCovid - Just One Giant Lab (JOGL)  &bull; 2020 &bull; Grassroots Innovation</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/streemufi" itemprop="url" target="_blank">StreeMuFi - A platform to uplift Street Musicians</a></h3>
+        <p class="resume-item-details" itemprop="description">Geeklist Hack4Good  &bull; 2013 &bull; Grassroots Innovation</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">---</h3>
+        <p class="resume-item-details" itemprop="description">  &bull;  &bull; </p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/cam" itemprop="url" target="_blank">Telepresence Robot</a></h3>
+        <p class="resume-item-details" itemprop="description">Yetu AG  &bull; 2014 &bull; Internal</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/arametrics" itemprop="url" target="_blank">araMetrics - Impact Measurement System</a></h3>
+        <p class="resume-item-details" itemprop="description">araCreate GmbH  &bull; 2019 &bull; Internal</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/aracloud" itemprop="url" target="_blank">araCloud - Cloud Deployment DevOps</a></h3>
+        <p class="resume-item-details" itemprop="description">araCreate GmbH  &bull; 2019 &bull; Internal</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/arabot" itemprop="url" target="_blank">araBot - Multipurpose Digital Fabrication Machine</a></h3>
+        <p class="resume-item-details" itemprop="description">araCreate GmbH  &bull; 2016 &bull; Internal</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://projects.aravinth.info/dns" itemprop="url" target="_blank">Home DNS - OpenHAB Home Automation</a></h3>
+        <p class="resume-item-details" itemprop="description">araCreate GmbH  &bull; 2015 &bull; Internal</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">---</h3>
+        <p class="resume-item-details" itemprop="description">  &bull;  &bull; </p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://aracreate.com" itemprop="url" target="_blank">www.aracreate.com</a></h3>
+        <p class="resume-item-details" itemprop="description">araCreate GmbH  &bull; 2019 - Present &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://aravinth.info" itemprop="url" target="_blank">www.aravinth.info</a></h3>
+        <p class="resume-item-details" itemprop="description">araCreate GmbH  &bull; 2008 - Present &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://dreamspace.academy" itemprop="url" target="_blank">www.dreamspace.academy</a></h3>
+        <p class="resume-item-details" itemprop="description">DreamSpace Academy  &bull; 2018 - Present &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://github.com/AravinthPanch/watergenics.tech" itemprop="url" target="_blank">www.watergenics.tech</a></h3>
+        <p class="resume-item-details" itemprop="description">Watergenics UG  &bull; 2019 &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://github.com/AravinthPanch/hardwarestartups.berlin" itemprop="url" target="_blank">www.hardwarestartups.berlin</a></h3>
+        <p class="resume-item-details" itemprop="description">araCreate GmbH  &bull; 2019 &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://github.com/AravinthPanch/macsxperts.com" itemprop="url" target="_blank">www.macsxperts.com</a></h3>
+        <p class="resume-item-details" itemprop="description">macsxperts  &bull; 2015 &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://github.com/AravinthPanch/kims-study.com" itemprop="url" target="_blank">www.kims-study.com</a></h3>
+        <p class="resume-item-details" itemprop="description">Karol Institute Of Medical Sciences (KIMS)  &bull; 2011 &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name"><a href="https://dma-study.com" itemprop="url" target="_blank">www.studyatagm.in</a></h3>
+        <p class="resume-item-details" itemprop="description">Davinci Medical Academy LLP  &bull; 2009 &bull; Website</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">---</h3>
+        <p class="resume-item-details" itemprop="description">  &bull;  &bull; </p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Branding</h3>
+        <p class="resume-item-details" itemprop="description">Purvottar Consultants  &bull; 2007 &bull; Design</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+
+    </section>
+    <!-- end Projects -->
+    
+    
+
+    
+    <!-- begin Talks -->
+    <section class="content-section">
+      <header class="section-header">
+        <h2> Talks | Workshops | Exhibitions</h2>
+      </header>
+
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Women in STEM - Diversity & Inclusion</h3>
+        <p class="resume-item-details" itemprop="description">iGEM • Paris, France  &bull; 2020 &bull; Keynote</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Open Science Responses To COVID-19</h3>
+        <p class="resume-item-details" itemprop="description">Enpact • Berlin, Germany  &bull; 2020 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Innovation Ecosystems Around The World</h3>
+        <p class="resume-item-details" itemprop="description">Technical College • Batticaloa, Sri Lanka  &bull; 2020 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Innovation Ecosystems Around The World</h3>
+        <p class="resume-item-details" itemprop="description">Dreamspace Academy • Batticaloa, Sri Lanka  &bull; 2020 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Innovation Thinking</h3>
+        <p class="resume-item-details" itemprop="description">ESOFT • Batticaloa, Sri Lanka  &bull; 2020 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Emerging Startup Ecosystem Of Uzbekistan</h3>
+        <p class="resume-item-details" itemprop="description">PDL Enpact • Berlin, Germany  &bull; 2020 &bull; Workshop</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Global Innovation Gathering - Sustainable Making</h3>
+        <p class="resume-item-details" itemprop="description">Chaos Communication Congress 36C3 • Leipzig, Germany  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Sustainable Making</h3>
+        <p class="resume-item-details" itemprop="description">Global Innovation Gathering DOTS 2019 • Nakuru, Kenya  &bull; 2019 &bull; Workshop</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Data • Sovereignty • Democracy and an African Perspective</h3>
+        <p class="resume-item-details" itemprop="description">United Nations Internet Governance Forum 2019 • Berlin, Germany  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Co-Creating The Dreams</h3>
+        <p class="resume-item-details" itemprop="description">Relogia 2019 • Sofia, Bulgaria  &bull; 2019 &bull; Keynote</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Company Culture For Social Responsibility</h3>
+        <p class="resume-item-details" itemprop="description">WLounge • Berlin, Germany  &bull; 2019 &bull; Workshop</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Breaking The Wall Of Subject Based Learning</h3>
+        <p class="resume-item-details" itemprop="description">Falling Walls 2019 • Berlin, Germany  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Hardware Startup - Starting Up The Hard Way</h3>
+        <p class="resume-item-details" itemprop="description">Founder Institute Berlin • Berlin, Germany  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Advanced Prototyping - OpenHPI</h3>
+        <p class="resume-item-details" itemprop="description">School Of Design Thinking, Hasso Plattner Institute • Berlin, Germany  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">The Fuck Ups To The Good Times</h3>
+        <p class="resume-item-details" itemprop="description">The Good Times 2.0 • Jakarta, Indonesia  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Motionlab Berlin - The Innovation Hub</h3>
+        <p class="resume-item-details" itemprop="description">The Good Times 2.0 • Jakarta, Indonesia  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">6th Green And Innovative Economy</h3>
+        <p class="resume-item-details" itemprop="description">Startup Nation Thailand 2019 • Bangkok, Thailand  &bull; 2019 &bull; Panel</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">araBeat + araBot</h3>
+        <p class="resume-item-details" itemprop="description">Maker Faire Berlin 2019 • Berlin, Germany  &bull; 2019 &bull; Exhibit</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Connecting Asian Origin</h3>
+        <p class="resume-item-details" itemprop="description">Asia Pacific Week Berlin 2019 • Berlin, Germany  &bull; 2019 &bull; Keynote</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Advanced Material Startups Ecosystem In Berlin</h3>
+        <p class="resume-item-details" itemprop="description">Asia Pacific Week Berlin 2019 • Berlin, Germany  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Introduction To Community Innovations</h3>
+        <p class="resume-item-details" itemprop="description">Dreamspace Academy • Batticaloa, Sri Lanka  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Motionlab - The Innovation Hub</h3>
+        <p class="resume-item-details" itemprop="description">Canary Islands Hub • Gran Ganaria, Spain  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Heart of Uptown with araBeat</h3>
+        <p class="resume-item-details" itemprop="description">Ackerberg MoZaic East • Minneapolis, USA  &bull; 2019 &bull; Exhibit</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Introduction To Berlin Hardware Ecosystem</h3>
+        <p class="resume-item-details" itemprop="description">Shenzhen Meets Berlin • Berlin, Germany  &bull; 2019 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Motionlab - The Innovation Hub</h3>
+        <p class="resume-item-details" itemprop="description">Global Innovation Summit 2018 • Chengdu, China  &bull; 2018 &bull; Keynote</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Robotics & IoT Innovations for solving the fundamental Human Problems</h3>
+        <p class="resume-item-details" itemprop="description">Broadband World Forum 2018 • Berlin, Germany  &bull; 2018 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">araBeat - Sonification of Heartbeats using Electrocardiogram (ECG)</h3>
+        <p class="resume-item-details" itemprop="description">Gathering for Open Science Hardware (GOSH) 2018 • Shenzhen, China  &bull; 2018 &bull; Exhibit</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Over-The-Air Update - The Crucial Component of IoT Products</h3>
+        <p class="resume-item-details" itemprop="description">Ethereum Camp 2018 • Berlin, Germany  &bull; 2018 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Learn Bluetooth Low Energy (BLE) On Raspberry Pi With Nuimo</h3>
+        <p class="resume-item-details" itemprop="description">TechJam 2017 • Berlin, Germany  &bull; 2017 &bull; Talk</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Macxperts - Hydroponics Vertical Farm</h3>
+        <p class="resume-item-details" itemprop="description">Krishi Mela 2015 • Bengaluru, India  &bull; 2015 &bull; Exhibit</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">HUMAN ♥ ROBOT</h3>
+        <p class="resume-item-details" itemprop="description">SPEKTRUM Berlin • Berlin, Germany  &bull; 2015 &bull; Exhibit</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Gesture Recognition For Human-Robot Interaction</h3>
+        <p class="resume-item-details" itemprop="description">DAI Labor • Berlin, Germany  &bull; 2015 &bull; Exhibit</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="Aravinth Panch" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">Heart Of The City</h3>
+        <p class="resume-item-details" itemprop="description">Vivid Light Festival 2015 • Sydney, Australia  &bull; 2015 &bull; Exhibit</p>
+        <p class="resume-item-copy"></p>
+      </div>
+      
+
+    </section>
+    <!-- end Talks -->
+    
+
+
+    
+
+    
+
+    
+    <!-- begin Links -->
+    <section class="content-section">
+
+      <header class="section-header">
+        <h2>Press</h2>
+      </header>
+
+      <div class="resume-item">
+        <ul class="resume-item-list">
+          
+          <li>31.05.2022 Germany : <a href=https://www.linkedin.com/posts/global-innovation-gathering_criticalmaking-innovation-environmentalsustainability-activity-6937126578036318208-uf79? itemprop="url" target="_blank">Global Innovation Gathering (GIG)</a></li>
+          
+          <li>23.05.2022 Germany : <a href=https://www.linkedin.com/posts/global-innovation-gathering_meettheteachers-criticalmaking-mentorshipprogramme-activity-6933310474511880192-6dAq? itemprop="url" target="_blank">Global Innovation Gathering (GIG)</a></li>
+          
+          <li>26.04.2022 Indonesia : <a href=https://thebridge.greenschool.org/2021/12/09/empowering-underserved-communities-in-the-war-affected-regions-of-sri-lanka-aravinth-panch-the-green-leadership-series-2/ itemprop="url" target="_blank">Green School</a></li>
+          
+          <li>01.04.2022 Indonesia : <a href=https://www.youtube.com/watch?v=nWAMn-ojASo itemprop="url" target="_blank">Green School</a></li>
+          
+          <li>01.03.2022 USA : <a href=https://www.ijidonline.com/article/S1201-9712(21)00987-5/fulltext#relatedArticles itemprop="url" target="_blank">International Journal Of Infectious Diseases</a></li>
+          
+          <li>22.02.2022 Sri Lanka : <a href=https://www.ft.lk/agriculture/Webinar-puts-spotlight-on-organic-agricultural-trade-between-SL-and-Netherlands/31-730881 itemprop="url" target="_blank">DailyFT</a></li>
+          
+          <li>09.12.2021 Indonesia : <a href=https://thebridge.greenschool.org/events/empowering-underserved-communities-in-the-war-affected-regions-of-sri-lanka-aravinth-panch-the-green-leadership-series/ itemprop="url" target="_blank">Green School</a></li>
+          
+          <li>27.11.2021 Sri Lanka : <a href=https://www.battinatham.com/2021/11/blog-post_890.html itemprop="url" target="_blank">Battinatham</a></li>
+          
+          <li>22.11.2021 Global : <a href=https://wildlabs.net/discussion/digital-naturalism-conference-sri-lanka-2022 itemprop="url" target="_blank">Wildlabs</a></li>
+          
+          <li>09.11.2021 Germany : <a href=https://www.fu-berlin.de/international/news-events/dates/panel-alumni-workshop.html itemprop="url" target="_blank">FU Berlin</a></li>
+          
+          <li>12.10.2021 UK : <a href=https://www.oneyoungworld.com/news-item/one-young-world-ambassadors-speak-world-bank-imf-annual-meetings itemprop="url" target="_blank">One Young World</a></li>
+          
+          <li>11.10.2021 Global : <a href=https://live.worldbank.org/economic-growth-in-a-time-of-crisis itemprop="url" target="_blank">Worldbank</a></li>
+          
+          <li>11.10.2021 Global : <a href=https://www.youtube.com/watch?v=DiS21l9wBCw&t=4086s itemprop="url" target="_blank">Worldbank</a></li>
+          
+          <li>09.09.2021 Sri Lanka : <a href=http://bizenglish.adaderana.lk/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/ itemprop="url" target="_blank">Adaderana News</a></li>
+          
+          <li>09.09.2021 Sri Lanka : <a href=https://www.ft.lk/it-telecom-tech/ICTA-and-partners-launch-10-000-Ideas-to-foster-next-generation-of-tech-entrepreneurs/50-722840 itemprop="url" target="_blank">DailyFT</a></li>
+          
+          <li>09.09.2021 Sri Lanka : <a href=https://bizreporter.lk/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/business-and-economy/ itemprop="url" target="_blank">Biz Reporter</a></li>
+          
+          <li>09.09.2021 Sri Lanka : <a href=https://businessgossips.lk/2021/09/09/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/ itemprop="url" target="_blank">Business Gossips</a></li>
+          
+          <li>09.09.2021 Sri Lanka : <a href=https://corpcom.lk/2021/09/09/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas/ itemprop="url" target="_blank">Corpcom</a></li>
+          
+          <li>09.09.2021 Sri Lanka : <a href=https://www.ft.lk/it-telecom-tech/ICTA-and-partners-launch-10-000-Ideas-to-foster-next-generation-of-tech-entrepreneurs/50-722840 itemprop="url" target="_blank">DailyFT</a></li>
+          
+          <li>09.09.2021 UK : <a href=https://www.techregister.co.uk/icta-and-partners-launch-10000-ideas-to-foster-next-generation-of-tech-entrepreneurs/ itemprop="url" target="_blank">Tech Register</a></li>
+          
+          <li>09.09.2021 Sri Lanka : <a href=https://www.themorning.lk/new-icta-initiative-to-grow-it-to-3-b-industry/ itemprop="url" target="_blank">The Morning</a></li>
+          
+          <li>09.09.2021 USA : <a href=https://washingtonlatest.com/icta-along-with-partners-launch-10000-ideas-to-foster-the-next-generation-of-tech-entrepreneurs-pooling-the-best-ideas-adaderana-biz-english-sri-lanka-business-news-adaderana-lk/ itemprop="url" target="_blank">Washington Latest</a></li>
+          
+          <li>03.09.2021 Germany : <a href=https://www.youtube.com/watch?v=NleDcdek2Ew itemprop="url" target="_blank">GITA</a></li>
+          
+          <li>20.08.2021 Germany : <a href=https://www.linkedin.com/posts/thomasschindler_join-aravinth-panch-at-gita-1400-cet-activity-6834446771322671104-Ln-f/ itemprop="url" target="_blank">GITA</a></li>
+          
+          <li>08.08.2021 Germany : <a href=https://www.youtube.com/playlist?list=PLrOeA8xRZt1e7mYbZDQlpqd47aoTYXmSV itemprop="url" target="_blank">The Building Culture</a></li>
+          
+          <li>23.07.2021 India : <a href=https://www.youtube.com/watch?v=RnAqA96PMdU itemprop="url" target="_blank">Biocord Network Summer Conference</a></li>
+          
+          <li>23.07.2021 India : <a href=https://www.bcnconference.org/aravinth-panch itemprop="url" target="_blank">Biocord Network Summer Conference</a></li>
+          
+          <li>23.07.2021 Germany : <a href=https://www.oneyoungworld.com/community/oyw2021 itemprop="url" target="_blank">One Young World</a></li>
+          
+          <li>01.07.2021 USA : <a href=https://www.izabelalundberg.com/team itemprop="url" target="_blank">Matrix Advisory Group</a></li>
+          
+          <li>01.07.2021 Germany : <a href=https://www.linkedin.com/posts/activity-6809554810996580352-UsWP/ itemprop="url" target="_blank">The Building Culture</a></li>
+          
+          <li>29.06.2021 Germany : <a href=https://www.linkedin.com/posts/activity-6816466343534047232-BDcK/ itemprop="url" target="_blank">The Building Culture</a></li>
+          
+          <li>25.06.2021 Germany : <a href=https://www.linkedin.com/posts/activity-6815601396881072128-iCqZ/ itemprop="url" target="_blank">The Building Culture</a></li>
+          
+          <li>09.06.2021 India : <a href=https://anchor.fm/mitti-ke-rang/episodes/In-Conversation-with-Aravinth-Panch-eujdki itemprop="url" target="_blank">Mitti Ke Rang</a></li>
+          
+          <li>05.05.2021 Egypt : <a href=https://www.almasryalyoum.com/news/details/2325174 itemprop="url" target="_blank">Almasryalyoum News</a></li>
+          
+          <li>03.05.2021 Egypt : <a href=https://www.youtube.com/watch?v=SQ8XhFYqh8o itemprop="url" target="_blank">Cairo Climate Talks</a></li>
+          
+          <li>03.05.2021 Egypt : <a href=https://www.youtube.com/watch?v=y7Oee20RnM4 itemprop="url" target="_blank">Cairo Climate Talks</a></li>
+          
+          <li>03.05.2021 Germany : <a href=https://globaltalentmentoring.org/2021/05/03/talent-development-in-the-global-south/ itemprop="url" target="_blank">Global Talent Mentoring</a></li>
+          
+          <li>28.04.2021 USA : <a href=https://www.amptnetwork.com/events/matter-2021 itemprop="url" target="_blank">AMPT Matter Forum</a></li>
+          
+          <li>23.04.2021 Sri Lanka : <a href=https://www.themorning.lk/sri-lankas-duke-of-edinburghs-international-award-award-recipients-on-becoming-brilliant-versions-of-themselves/ itemprop="url" target="_blank">The Morning</a></li>
+          
+          <li>20.04.2021 Sri Lanka : <a href=http://bizenglish.adaderana.lk/mou-signed-between-icta-sri-lanka-and-enpact-e-v-germany-to-collaborate-between-startup-ecosystems-and-webinar-on-agritech-and-watertech/ itemprop="url" target="_blank">Adaderana News</a></li>
+          
+          <li>19.04.2021 Sri Lanka : <a href=http://www.colombopage.com/archive_21A/Apr19_1618842599CH.php itemprop="url" target="_blank">Colombo Page</a></li>
+          
+          <li>18.04.2021 Sri Lanka : <a href=http://www.sundaytimes.lk/210418/business-times/icta-and-german-company-to-collaborate-on-start-ups-440109.html itemprop="url" target="_blank">Sunday Times</a></li>
+          
+          <li>16.04.2021 Sri Lanka : <a href=http://www.businessnews.lk/2021/04/16/icta-inks-mou-with-enpact-e-v-germany/ itemprop="url" target="_blank">Business News LK</a></li>
+          
+          <li>16.04.2021 Sri Lanka : <a href=https://www.ft.lk/business/MoU-signed-between-ICTA-SL-and-Germany-s-ENPACT-e-V/34-716306 itemprop="url" target="_blank">DailyFT</a></li>
+          
+          <li>14.04.2021 Germany : <a href=https://www.youtube.com/watch?v=2WzCZbvdsMI itemprop="url" target="_blank">AsiaBerlin ICTA Sri Lanka</a></li>
+          
+          <li>12.04.2021 Germany : <a href=https://www.srilanka-botschaft.de/de/nachrichten/botschaft/pressemitteilung-zwischen-icta-sri-lanka-und-enpact-e-v-deutschland-unterzeichnetes-mou-zur-zusammenarbeit-zwischen-startup-oekosystemen-und-webinar-zu-agritech-und-watertech itemprop="url" target="_blank">Sri Lankan Embassy Berlin</a></li>
+          
+          <li>18.03.2021 Romania : <a href=https://www.youtube.com/watch?v=ZlLwYEDxb88 itemprop="url" target="_blank">Skills Of The Future</a></li>
+          
+          <li>28.02.2021 USA : <a href=https://www.linkedin.com/posts/genscript-corporation_women-in-science-technology-engineering-activity-6769999236143558656-9tgK itemprop="url" target="_blank">Genscript</a></li>
+          
+          <li>25.02.2021 Sri Lanka : <a href=https://witnessstories.blogspot.com/2021/02/batticaloa-dreamspace-academy.html itemprop="url" target="_blank">Witnessstories</a></li>
+          
+          <li>24.02.2021 UK : <a href=https://vanakkamlondon.com/world/srilanka/2021/02/102853/ itemprop="url" target="_blank">Vanakkam London</a></li>
+          
+          <li>21.02.2021 France : <a href=https://www.linkedin.com/posts/jogl_opensource-activity-6764613548342562816-8K5i itemprop="url" target="_blank">Just One Giant Lab (JOGL)</a></li>
+          
+          <li>18.02.2021 Sri Lanka : <a href=https://hackadev.lk/nyd2021/event/greener-youth-for-greener-planet/ itemprop="url" target="_blank">UNDP - National Youth Dialogue 2021</a></li>
+          
+          <li>12.02.2021 Germany : <a href=https://coactproject.eu/news/a-new-family-is-born-join-coacts-opencitizensocialscience-community/ itemprop="url" target="_blank">Global Innovation Gathering (GIG)</a></li>
+          
+          <li>09.01.2021 Sri Lanka : <a href=https://www.goodmarket.global/info/new-community-members-for-december-2020/ itemprop="url" target="_blank">Good Market</a></li>
+          
+          <li>09.01.2021 Sri Lanka : <a href=https://www.facebook.com/shanakiyan.rasamanickam/videos/2654652824824618 itemprop="url" target="_blank">MP. Shanakiyan At The Parliament</a></li>
+          
+          <li>09.12.2020 USA : <a href=https://www.peacedirect.org/2020-peace-direct-award/ itemprop="url" target="_blank">Peace Direct</a></li>
+          
+          <li>09.12.2020 Germany : <a href=https://soundcloud.com/successacrossboundaries/aravinth-panch itemprop="url" target="_blank">Success Across Boundaries</a></li>
+          
+          <li>04.12.2020 Germany : <a href=https://twitter.com/CareablesOrg/status/1334765481362944002/ itemprop="url" target="_blank">Careables</a></li>
+          
+          <li>27.11.2020 France : <a href=https://www.lesechos.fr/weekend/perso/lintelligence-collective-arme-anti-covid-1268773 itemprop="url" target="_blank">Les Echos</a></li>
+          
+          <li>23.11.2020 Germany : <a href=https://www.youtube.com/watch?v=DXpmp2YfpRk itemprop="url" target="_blank">AsiaBerlin</a></li>
+          
+          <li>20.11.2020 Germany : <a href=https://www.youtube.com/watch?v=KA_RqcnO0Eg itemprop="url" target="_blank">AsiaBerlin</a></li>
+          
+          <li>18.11.2020 Germany : <a href=https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/Infomaterialien/IN_change_Magazin_2_2020_201118.pdf#page=7 itemprop="url" target="_blank">Bertelsmann Stiftung</a></li>
+          
+          <li>15.11.2020 Indonesia : <a href=https://www.earthcompany.info/blog/impact-hero-2021-finalists/ itemprop="url" target="_blank">Earth Company</a></li>
+          
+          <li>09.11.2020 Germany : <a href=https://falling-walls.com/people/dreamspace-academy/ itemprop="url" target="_blank">Falling Walls</a></li>
+          
+          <li>30.10.2020 USA : <a href=https://www.buzzsprout.com/1516996/6637498-how-dreamspace-academy-is-creating-entrepreneurs-in-sri-lanka itemprop="url" target="_blank">Growthpreneurs</a></li>
+          
+          <li>29.10.2020 France : <a href=https://blog.igem.org/blog/2020/10/29/women-in-science-technology-engineering-and-mathematics-stem-interview-series itemprop="url" target="_blank">iGEM Foundation</a></li>
+          
+          <li>29.10.2020 France : <a href=https://www.youtube.com/watch?v=SHZh8gZKKk4 itemprop="url" target="_blank">iGEM Foundation</a></li>
+          
+          <li>29.10.2020 France : <a href=https://www.youtube.com/watch?v=1xZbbmpp6dg itemprop="url" target="_blank">iGEM Foundation</a></li>
+          
+          <li>10.10.2020 USA : <a href=https://www.youtube.com/watch?v=leHvCi2AmNI itemprop="url" target="_blank">Global Community Bio Summit</a></li>
+          
+          <li>17.09.2020 Germany : <a href=https://www.globalinnovationgathering.org/2020/09/17/four-careables-members-have-been-chosen-as-global-community-bio-fellows/ itemprop="url" target="_blank">Global Innovation Gathering (GIG)</a></li>
+          
+          <li>17.09.2020 France : <a href=https://medium.com/justonegiantlab/meet-coronahunter-a-semi-finalist-for-the-xprize-rapid-covid-testing-challenge-9ac658956168 itemprop="url" target="_blank">Just One Giant Lab (JOGL)</a></li>
+          
+          <li>17.09.2020 USA : <a href=https://medium.com/justonegiantlab/meet-coronahunter-a-semi-finalist-for-the-xprize-rapid-covid-testing-challenge-9ac658956168 itemprop="url" target="_blank">XPRIZE Rapid Covid Testing challenge</a></li>
+          
+          <li>15.09.2020 Germany : <a href=https://twitter.com/HealthPioneersB/status/1305913344486973441 itemprop="url" target="_blank">Vision Health Pioneers (VHP)</a></li>
+          
+          <li>31.08.2020 Germany : <a href=https://asia.berlin/meet-these-berlin-startups-at-asiaberlin-summit-2020/ itemprop="url" target="_blank">AsiaBerlin</a></li>
+          
+          <li>23.08.2020 Germany : <a href=https://www.youtube.com/watch?v=mxfiVYgYbRk itemprop="url" target="_blank">AsiaBerlin</a></li>
+          
+          <li>18.08.2020 Germany : <a href=https://access2perspectives.org/2020/08/low-cost-loop-mediated-isothermal-amplification-kit-to-enhance-covid-testing-capacity-in-sri-lanka/ itemprop="url" target="_blank">Access 2 Perspective (A2P)</a></li>
+          
+          <li>18.08.2020 Germany : <a href=https://www.instagram.com/p/CEEzonkqADs/ itemprop="url" target="_blank">AsiaBerlin</a></li>
+          
+          <li>18.08.2020 Sri Lanka : <a href=http://www.ft.lk/front-page/slintec-develops-low-cost-loop-mediated-isothermal-amplification-kit-to-enhance-covid-testing-capacity/44-704715 itemprop="url" target="_blank">DailyFT</a></li>
+          
+          <li>26.03.2020 Greece : <a href=https://www.healthcapital.de/news/artikel/hackcorona-virtual-hackathon-by-data-natives-hacking-health-1-million-social-media-impressions/ itemprop="url" target="_blank">Hackcorona</a></li>
+          
+          <li>01.01.2020 Germany : <a href=https://globaltalentmentoring.org/pi/aracreate/ itemprop="url" target="_blank">Global Talent Mentoring</a></li>
+          
+          <li>01.01.2020 UK : <a href=https://wellbeingeconomy.org/how-can-makerspaces-help-build-climate-change-resilience itemprop="url" target="_blank">Wellbeing Economy Alliance</a></li>
+          
+          <li>13.12.2019 Germany : <a href=https://www.youtube.com/watch?v=Oe4Zk2ZRH8M itemprop="url" target="_blank">Falling Walls Foundation</a></li>
+          
+          <li>02.12.2019 Bulgaria : <a href=https://www.youtube.com/watch?v=P18Mvq5Mmus&t=44m28s itemprop="url" target="_blank">ReLogia</a></li>
+          
+          <li>25.11.2019 Germany : <a href=https://dgvn.de/aktivitaeten/einzelansicht/road2igf-data-sovereignty-democracy-and-an-african-perspective/ itemprop="url" target="_blank">United Nations Internet Governance Forum</a></li>
+          
+          <li>19.11.2019 Germany : <a href=https://www.linkedin.com/posts/melanie-griebsch_workshop-living-improving-activity-6603547370233839616-9KkM itemprop="url" target="_blank">WLounge Workshop Circle</a></li>
+          
+          <li>8.11.2019 Germany : <a href=https://idw-online.de/de/news726749 itemprop="url" target="_blank">Robert Bosch Stiftung</a></li>
+          
+          <li>8.11.2019 Germany : <a href=https://twitter.com/Falling_Walls/status/1192851052699291653 itemprop="url" target="_blank">Robert Bosch Stiftung</a></li>
+          
+          <li>8.11.2019 Germany : <a href=https://twitter.com/BoschStiftung/status/1192850104266436608 itemprop="url" target="_blank">Robert Bosch Stiftung</a></li>
+          
+          <li>7.11.2019 Germany : <a href=https://twitter.com/SHD_Berlin/status/1192544424536002561 itemprop="url" target="_blank">Science Hack Day Berlin</a></li>
+          
+          <li>26.10.2019 Germany : <a href=https://www.linkedin.com/posts/assistmeio_startups-tech-ux-activity-6597802927052595201-RJnW/ itemprop="url" target="_blank">Beautiful Software Awards</a></li>
+          
+          <li>28.08.2019 Germany : <a href=https://open.hpi.de/courses/prototype2019/items/2WKmMSFCy9uTwZsOafI9im itemprop="url" target="_blank">Hasso Plattner Institute</a></li>
+          
+          <li>25.07.2019 Thailand : <a href=https://www.linkedin.com/posts/aravinthpanch_green-innovative-economy-activity-6561285451792035840-XCnS/ itemprop="url" target="_blank">Startup Nation Thailand</a></li>
+          
+          <li>13.06.2019 China : <a href=https://www.linkedin.com/feed/update/urn:li:activity:6546839089503584256/ itemprop="url" target="_blank">National Innovation and Entrepreneurship Week</a></li>
+          
+          <li>30.05.2019 Menorca Island : <a href=https://www.linkedin.com/feed/update/urn:li:activity:6553734586268950528/ itemprop="url" target="_blank">Decelera</a></li>
+          
+          <li>13.05.2019 Germany : <a href=https://www.linkedin.com/feed/update/urn:li:activity:6530181995031470080/ itemprop="url" target="_blank">AsiaBerlin</a></li>
+          
+          <li>28.02.2019 Canary Islands : <a href=https://www.offshore-energy.biz/plocan-hosts-delegation-of-canary-islands-future-lab-initiative/ itemprop="url" target="_blank">PLOCAN</a></li>
+          
+          <li>16.02.2019 Gran Ganaria : <a href=https://www.linkedin.com/feed/update/urn:li:activity:6505162039592259584/ itemprop="url" target="_blank">Canary Islands Future Lab</a></li>
+          
+          <li>03.01.2019 Germany : <a href=https://www.seeedstudio.com/blog/2019/01/07/kicking-off-2019-with-shenzhen-meets-berlin-meetup/ itemprop="url" target="_blank">Seeed Studio</a></li>
+          
+          <li>13.12.2018 China : <a href=https://www.linkedin.com/feed/update/urn:li:activity:6481948877875343360/ itemprop="url" target="_blank">Global Innovation Summit</a></li>
+          
+          <li>04.11.2018 Germany : <a href=https://twitter.com/SHD_Berlin/status/1058460312087748609 itemprop="url" target="_blank">Science Hack Day Berlin</a></li>
+          
+          <li>25.10.2018 Germany : <a href=https://www.linkedin.com/feed/update/urn:li:activity:6501020605440094208/ itemprop="url" target="_blank">Broadband World Forum Berlin</a></li>
+          
+          <li>12.10.2018 China : <a href=https://www.linkedin.com/feed/update/urn:li:activity:6533424288576352256/ itemprop="url" target="_blank">Gathering for Open Science Hardware (GOSH)</a></li>
+          
+          <li>12.05.2018 Germany : <a href=https://www.youtube.com/watch?v=ia87utBI6GU itemprop="url" target="_blank">Ethereum Camp</a></li>
+          
+          <li>20.04.2018 Germany : <a href=https://medium.com/nbt-thing-tank/ethereum-camp-2018-connects-berlins-blockchain-iot-ecosystem-ab539090a3f itemprop="url" target="_blank">Next Big Thing</a></li>
+          
+          <li>06.05.2018 Germany : <a href=https://medium.com/@nextbigthingag/embedded-system-engineers-build-gateways-to-innovation-fac18ef4305 itemprop="url" target="_blank">Next Big Thing</a></li>
+          
+          <li>17.11.2018 Germany : <a href=https://twitter.com/SHD_Berlin/status/931613489612902400 itemprop="url" target="_blank">Science Hack Day Berlin</a></li>
+          
+          <li>27.09.2015 Germany : <a href=https://spektrumberlin.org/events/detail/exhibition-2-human-robot.html itemprop="url" target="_blank">SPEKTRUM Berlin</a></li>
+          
+          <li>09.06.2015 Australia : <a href=https://www.anaisafranco.com/heartofthecity/ itemprop="url" target="_blank">VIVID Light Festival</a></li>
+          
+          <li>01.04.2015 Germany : <a href=http://dainamite.github.io/2015/04/01/GermanOpen2015/ itemprop="url" target="_blank">Robocup GermanOpen</a></li>
+          
+        </ul>
+      </div>
+
+    </section>
+    <!-- end Links -->
+    
+
+    
+    <!-- begin Print Social Links -->
+    <section class="content-section print-only">
+
+      <header class="section-header">
+        <h2>Social Links</h2>
+      </header>
+
+      <div class="resume-item">
+        <!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+
+<ul>
+
+  <!-- GitHub link -->
+  
+  <li><strong>Github</strong>: https://github.com/AravinthPanch</li>
+  
+
+  <!-- Twitter link -->
+  
+  <li><strong>Twitter</strong>: http://twitter.com/AravinthPanch</li>
+  
+
+  <!-- Dribbble link -->
+  
+
+  <!-- Facebook link -->
+  
+  <li><strong>Facebook</strong>: https://www.facebook.com/AravinthPanch</li>
+  
+
+  <!-- LinkedIn link -->
+  
+  <li><strong>LinkedIn</strong>: https://www.linkedin.com/in/aravinthpanch/</li>
+  
+
+  <!-- Instagram link -->
+  
+  <li><strong>Instagram</strong>: https://www.instagram.com/AravinthPanch/</li>
+  
+
+  <!-- Website link -->
+  
+
+</ul>
+
+
+      </div>
+
+    </section>
+    <!-- end Print Social Links -->
+    
+
+    <footer class="page-footer">
+      <p class="footer-line">
+        www.aravinth.info
+        </br>&copy; 2008-2023. All rights reserved.
+        </br><a id="change_cookies" href="#" target="_blank">Cookies Consent</a> | <a href="#" target="_blank">Imprint</a>
+      </p>
+    </footer>
+
+  </div>
+
+</body>
+
+</html>
